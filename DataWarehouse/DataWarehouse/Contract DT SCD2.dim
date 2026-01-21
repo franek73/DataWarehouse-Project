@@ -1,0 +1,246 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="350d36e3-6c5c-426e-b7cc-c44a97eb5217" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Contract DT SCD2</ID>
+  <Name>Contract DT SCD2</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-4464" scrolltop="-6072" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10186" y="20849" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Contract_DT_SCD2" left="-932" top="-1429" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3228" height="4419" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e00009c0c000043110000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Contract_DT_SCD2" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-4464</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-6072</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>-932</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>-1429</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="136">
+            <Shape Id="ID Contract" Expanded="true">
+              <Attributes>
+                <Attribute Id="ID Contract" />
+                <Attribute Id="Company" />
+                <Attribute Id="Contract Length" />
+                <Attribute Id="Expiration Month" />
+                <Attribute Id="Expiration Year" />
+                <Attribute Id="Is Current" />
+                <Attribute Id="NIP" />
+                <Attribute Id="Sign Month" />
+                <Attribute Id="Sign Year" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="e5edb772-ed20-4653-9eb3-f4ef04d39147">
+    <DataSourceViewID>Kolejnictwo Hurtownia</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="2ebd4d46-8303-4f47-ba43-798a4aeae2c0">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="f46624db-0635-44e4-80af-7f707e7425e2">
+      <ID>ID Contract</ID>
+      <Name>ID Contract</Name>
+      <Usage>Key</Usage>
+      <EstimatedCount>50000</EstimatedCount>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f6297f43-0211-4f11-a8c5-5118f7266835">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1b78494e-5649-42fa-b019-96140adc69bf">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>ID_Contract</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="6617b27f-5b5c-4feb-ab7b-3826cbac95b9">
+          <AttributeID>Company</AttributeID>
+          <Name>Company</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="09851bbe-801d-45b5-b02b-9b32c6b182c8">
+          <AttributeID>Sign Month</AttributeID>
+          <Name>Sign Month</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="8377e596-83a6-4c8c-b964-2aa2b1bc1bda">
+          <AttributeID>Sign Year</AttributeID>
+          <Name>Sign Year</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="dd643751-33b3-4f6c-a390-811812ec77c5">
+          <AttributeID>Expiration Month</AttributeID>
+          <Name>Expiration Month</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="294a9997-5602-4535-8316-c468ad696c53">
+          <AttributeID>Expiration Year</AttributeID>
+          <Name>Expiration Year</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="7b6131dc-c305-4a27-9df3-2923b95ce771">
+          <AttributeID>Contract Length</AttributeID>
+          <Name>Contract Length</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="51d6a3a7-ca8b-4763-b2bd-c81986445bbd">
+      <ID>Company</ID>
+      <Name>Company</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a28efa79-cb53-470f-b589-cb80947f2059">
+          <DataType>WChar</DataType>
+          <DataSize>40</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f9541c1c-e922-40df-8103-813d3d81ba01">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>Company</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d158fc31-b46b-4068-b35b-1e3f5f52405a">
+      <ID>Sign Month</ID>
+      <Name>Sign Month</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="187199a8-83eb-42a1-a89a-2452b5fc7c10">
+          <DataType>WChar</DataType>
+          <DataSize>2</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d2c87bb3-b71f-46ce-9b9c-bfa7b9028e33">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>SignMonth</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="96a7a863-7083-48ca-aab3-2a78e1388928">
+      <ID>Sign Year</ID>
+      <Name>Sign Year</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="44fe3b0c-033d-49ed-bee7-69a762c773ea">
+          <DataType>WChar</DataType>
+          <DataSize>4</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d78115f6-4a64-484d-acf9-cc7094590291">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>SignYear</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="e48719ac-cd6c-4256-a8bb-64aca83af88a">
+      <ID>Expiration Month</ID>
+      <Name>Expiration Month</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="aec72c3a-53dc-43d4-94bb-35c29333590f">
+          <DataType>WChar</DataType>
+          <DataSize>2</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4b8140e0-c908-4640-bc67-f05d6485238f">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>ExpirationMonth</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2160795f-89f9-43b6-9c00-4420f44a120e">
+      <ID>Expiration Year</ID>
+      <Name>Expiration Year</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4430c893-c47b-4825-afe9-da3f24654592">
+          <DataType>WChar</DataType>
+          <DataSize>4</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d0004fb9-d6ac-4252-a6c3-e422a074be3a">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>ExpirationYear</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="698cac69-6115-48d4-ba42-6bebcecb0465">
+      <ID>Contract Length</ID>
+      <Name>Contract Length</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b355214e-cf6d-46e4-85e1-675458ae38fa">
+          <DataType>WChar</DataType>
+          <DataSize>10</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="947923ad-ed55-446e-8b41-b92bd112611e">
+            <TableID>dbo_Contract_DT_SCD2</TableID>
+            <ColumnID>ContractLength</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

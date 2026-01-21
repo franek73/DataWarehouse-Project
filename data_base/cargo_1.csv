@@ -1,0 +1,34 @@
+Name,CargoGroup
+Iron,Raw Minerals
+Coal,Raw Minerals
+Copper,Raw Minerals
+Gold,Raw Minerals
+Silver,Raw Minerals
+Grain,Agricultural
+Wheat,Agricultural
+Corn,Agricultural
+Rice,Agricultural
+Car,Automobiles
+VIP Car,Automobiles
+Container,Intermodal Containers
+Petrol,Oil
+Gas,Oil
+Oil,Oil
+Steel,Building Materials
+Aluminium,Building Materials
+Cement,Building Materials
+Concrete,Building Materials
+Food,Food
+Logs,Forestry
+PlanksSawdust,Forestry
+AGD,Machinery
+Metals,Metals
+Goods,Goods
+Clothes,Goods
+Furniture,Goods
+Pigs,Livestock
+Cows,Livestock
+Electronics,Electronics
+Chemicals,Chemicals
+Fertilizers,Chemicals
+Pesticides,Chemicals

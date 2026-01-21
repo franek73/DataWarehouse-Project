@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DataWarehouse", "DataWarehouse\DataWarehouse.dwproj", "{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS", "SSIS\SSIS.dtproj", "{ED138D63-C20A-437A-8048-BC7759477DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}.Development|Default.ActiveCfg = Development
+		{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}.Development|Default.Build.0 = Development
+		{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}.Development|Default.Deploy.0 = Development
+		{ED138D63-C20A-437A-8048-BC7759477DF9}.Development|Default.ActiveCfg = Development
+		{ED138D63-C20A-437A-8048-BC7759477DF9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385F17A9-C47D-425F-B4DF-B759A226C225}
+	EndGlobalSection
+EndGlobal

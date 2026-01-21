@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\SEMESTR 5\\Hurtownie danych\\DataWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}|DataWarehouse\\DataWarehouse.dwproj|C:\\Users\\franc\\Desktop\\SEMESTR 5\\Hurtownie danych\\DataWarehouse\\DataWarehouse\\Kolejnictwo Hurtownia.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{1C70D5E4-3285-41FD-9FB5-46F941EA54C5}|DataWarehouse\\DataWarehouse.dwproj|solutionrelative:DataWarehouse\\Kolejnictwo Hurtownia.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kolejnictwo Hurtownia.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\SEMESTR 5\\Hurtownie danych\\DataWarehouse\\DataWarehouse\\Kolejnictwo Hurtownia.cube",
+              "RelativeDocumentMoniker": "DataWarehouse\\Kolejnictwo Hurtownia.cube",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\SEMESTR 5\\Hurtownie danych\\DataWarehouse\\DataWarehouse\\Kolejnictwo Hurtownia.cube [Design]",
+              "RelativeToolTip": "DataWarehouse\\Kolejnictwo Hurtownia.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T11:19:52.181Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

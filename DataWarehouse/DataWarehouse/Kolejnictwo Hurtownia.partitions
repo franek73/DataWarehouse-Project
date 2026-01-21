@@ -1,0 +1,438 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="1678c28e-a7d9-48eb-9dbe-fc39010d9d94" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Kolejnictwo Hurtownia</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>Freight Car Assignment FT</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="6f67aef7-adfb-4768-bcc4-ceafa9fd208e">
+          <ID>Freight Car Assignment FT</ID>
+          <Name>Freight Car Assignment FT</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="d2d450a8-88b0-4030-a3cc-4987fdfb0fce">
+            <DataSourceViewID>Kolejnictwo Hurtownia</DataSourceViewID>
+            <TableID>dbo_Freight_Car_Assignment_FT</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+          <ProactiveCaching dwd:design-time-name="7ceb8cef-f102-464d-b738-b798aeae5b92">
+            <SilenceInterval>-PT1S</SilenceInterval>
+            <Latency>-PT1S</Latency>
+            <SilenceOverrideInterval>-PT1S</SilenceOverrideInterval>
+            <ForceRebuildInterval>-PT1S</ForceRebuildInterval>
+            <AggregationStorage>MolapOnly</AggregationStorage>
+            <Source xsi:type="ProactiveCachingInheritedBinding" dwd:design-time-name="d18c66ba-211c-4c1d-adbd-604bec4c2c9c">
+              <NotificationTechnique>Server</NotificationTechnique>
+            </Source>
+          </ProactiveCaching>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Transport FT</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="05337f14-d825-4878-984a-d68359dfb956">
+          <ID>Transport FT</ID>
+          <Name>Transport FT</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="1df3247e-033e-4b45-ad5f-9dc0931f1a91">
+            <DataSourceViewID>Kolejnictwo Hurtownia</DataSourceViewID>
+            <TableID>dbo_Transport_FT</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+          <ProactiveCaching dwd:design-time-name="f2e2022a-459f-46d8-b187-cb6be86a05a9">
+            <SilenceInterval>-PT1S</SilenceInterval>
+            <Latency>-PT1S</Latency>
+            <SilenceOverrideInterval>-PT1S</SilenceOverrideInterval>
+            <ForceRebuildInterval>-PT1S</ForceRebuildInterval>
+            <AggregationStorage>MolapOnly</AggregationStorage>
+            <Source xsi:type="ProactiveCachingInheritedBinding" dwd:design-time-name="6808aef2-b152-404d-bab5-7968991d6c52">
+              <NotificationTechnique>Server</NotificationTechnique>
+            </Source>
+          </ProactiveCaching>
+          <EstimatedRows>983733</EstimatedRows>
+          <AggregationDesignID>Aggregations</AggregationDesignID>
+        </Partition>
+      </Partitions>
+      <AggregationDesigns>
+        <AggregationDesign>
+          <ID>Aggregations</ID>
+          <Name>Aggregations</Name>
+          <CreatedTimestamp>2024-12-22T17:14:42.906667Z</CreatedTimestamp>
+          <LastSchemaUpdate>2024-12-22T17:14:42.906667Z</LastSchemaUpdate>
+          <EstimatedRows>983733</EstimatedRows>
+          <Dimensions>
+            <Dimension>
+              <CubeDimensionID>Transport FT</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Transport</AttributeID>
+                  <EstimatedCount>983733</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID End Date</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID Start Station</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID Contract</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID Junk</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID Start Date</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID End Station</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>ID Locomotive</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>ID End Date</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Date</AttributeID>
+                  <EstimatedCount>29585</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Year</AttributeID>
+                  <EstimatedCount>81</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day Of Week</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day Of Week Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Season</AttributeID>
+                  <EstimatedCount>4</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Working Day</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>ID Start Station</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Station</AttributeID>
+                  <EstimatedCount>104670</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Name</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>Contract DT SCD2</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Contract</AttributeID>
+                  <EstimatedCount>50000</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Company</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Sign Month</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Sign Year</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Expiration Month</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Expiration Year</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Contract Length</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>Junk DT</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Junk</AttributeID>
+                  <EstimatedCount>96</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Is Delay</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Delay Range</AttributeID>
+                  <EstimatedCount>3</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Locomotive Usage Range</AttributeID>
+                  <EstimatedCount>4</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Freight Cars Usage Range</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>ID Start Date</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Date</AttributeID>
+                  <EstimatedCount>29585</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Year</AttributeID>
+                  <EstimatedCount>81</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day Of Week</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day Of Week Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Season</AttributeID>
+                  <EstimatedCount>4</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Working Day</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>ID End Station</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Station</AttributeID>
+                  <EstimatedCount>104670</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Name</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>Locomotive DT</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Locomotive</AttributeID>
+                  <EstimatedCount>2800</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Serial Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Type</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Model</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Is Current</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>Freight Car DT</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>ID Freight Car</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Serial Number</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Cargo Group</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+          </Dimensions>
+          <Aggregations>
+            <Aggregation>
+              <ID>Aggregation 0</ID>
+              <Name>Aggregation 0</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>Transport FT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Date</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Contract DT SCD2</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Junk DT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>ID Junk</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Date</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                    <Attribute>
+                      <AttributeID>Season</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Locomotive DT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Freight Car DT</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 1</ID>
+              <Name>Aggregation 1</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>Transport FT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Date</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Contract DT SCD2</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Junk DT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Delay Range</AttributeID>
+                    </Attribute>
+                    <Attribute>
+                      <AttributeID>Locomotive Usage Range</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Date</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                    <Attribute>
+                      <AttributeID>Season</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Locomotive DT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Freight Car DT</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 2</ID>
+              <Name>Aggregation 2</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>Transport FT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Date</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Contract DT SCD2</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Junk DT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Delay Range</AttributeID>
+                    </Attribute>
+                    <Attribute>
+                      <AttributeID>Locomotive Usage Range</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID Start Date</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                    <Attribute>
+                      <AttributeID>Season</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>ID End Station</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Locomotive DT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>Freight Car DT</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+          </Aggregations>
+        </AggregationDesign>
+      </AggregationDesigns>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

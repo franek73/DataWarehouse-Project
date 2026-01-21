@@ -1,0 +1,4001 @@
+SerialNumber,Model,Capacity,CargoGroup
+71734,H-14,2183,Agricultural
+50298,I-20,1706,Goods
+67916,H-13,9476,Livestock
+65787,B-16,1748,Raw Minerals
+52886,L-20,6380,Chemicals
+50222,O-16,7890,Electronics
+72301,P-18,3996,Metals
+65906,N-13,1435,Goods
+82813,K-17,8101,Building Materials
+96273,N-12,7701,Machinery
+55776,B-20,4404,Oil
+91304,N-17,1135,Machinery
+70454,G-18,1113,Goods
+54210,C-16,9161,Machinery
+88625,J-15,3988,Building Materials
+99792,B-19,7377,Chemicals
+57799,H-18,3888,Automobiles
+85444,M-14,8326,Machinery
+94006,H-16,5360,Raw Minerals
+91086,E-18,2719,Machinery
+80694,I-16,3673,Forestry
+71740,N-13,6257,Machinery
+98520,G-20,3376,Metals
+65792,E-13,6578,Raw Minerals
+51294,E-15,7810,Metals
+75360,I-18,9477,Chemicals
+52914,J-11,3073,Electronics
+63425,P-18,2714,Oil
+89465,N-10,6583,Forestry
+70113,L-13,3201,Livestock
+77740,L-19,8308,Raw Minerals
+59367,F-19,5496,Electronics
+70615,F-17,2399,Food
+73922,F-14,2160,Machinery
+54317,B-19,4323,Goods
+85573,F-11,6207,Electronics
+53908,M-14,7596,Raw Minerals
+99515,J-18,4298,Machinery
+90550,J-11,9823,Goods
+77029,B-15,9584,Raw Minerals
+69310,I-10,3470,Raw Minerals
+64188,H-17,9450,Chemicals
+89753,L-12,8345,Food
+66540,F-11,3570,Forestry
+56804,I-17,3708,Automobiles
+99132,H-14,6157,Machinery
+63029,K-14,2807,Building Materials
+51792,F-19,8381,Automobiles
+57880,E-11,5100,Intermodal Containers
+85690,I-12,3407,Machinery
+91308,L-13,4641,Chemicals
+59321,J-10,1411,Raw Minerals
+99038,J-14,9575,Electronics
+99371,L-19,8993,Raw Minerals
+82170,P-18,7015,Raw Minerals
+54903,E-20,4433,Electronics
+76411,I-10,4201,Building Materials
+74231,D-14,9571,Electronics
+84743,K-20,2048,Intermodal Containers
+64035,H-17,5175,Automobiles
+97090,K-19,9375,Building Materials
+81160,G-15,2711,Intermodal Containers
+99390,F-16,6536,Intermodal Containers
+89487,O-12,1889,Agricultural
+63249,G-18,3688,Oil
+96581,E-12,5247,Oil
+89986,D-10,9737,Livestock
+87133,E-10,6553,Food
+81132,I-14,2418,Machinery
+65691,M-17,8121,Agricultural
+84050,C-18,7861,Food
+99823,K-11,4821,Building Materials
+99234,I-16,1101,Raw Minerals
+65336,P-10,6843,Goods
+60178,C-12,4018,Building Materials
+86445,J-16,5154,Automobiles
+73797,O-19,6886,Oil
+96636,N-17,8833,Intermodal Containers
+94669,E-10,1472,Metals
+61833,P-15,8370,Forestry
+73061,N-19,1398,Metals
+72197,F-15,6230,Building Materials
+84196,D-18,3008,Goods
+96247,J-11,4104,Automobiles
+77039,N-10,9298,Goods
+75682,G-14,5590,Livestock
+63594,B-11,6585,Goods
+72382,C-14,7063,Metals
+71998,B-13,7170,Automobiles
+65114,K-11,9393,Oil
+84005,P-12,8400,Goods
+54387,B-12,3503,Livestock
+89928,L-17,3340,Automobiles
+50810,I-14,4991,Chemicals
+83287,C-17,3244,Electronics
+84939,N-16,4446,Agricultural
+97282,G-12,1597,Food
+89207,H-13,2975,Automobiles
+78235,H-13,1860,Agricultural
+86749,M-17,8165,Intermodal Containers
+99192,D-19,3930,Chemicals
+96302,O-12,6631,Raw Minerals
+81365,C-11,8107,Building Materials
+63784,O-14,7618,Building Materials
+57568,P-16,3566,Forestry
+65694,F-18,6310,Metals
+85020,D-17,1236,Livestock
+76989,D-12,5240,Building Materials
+91023,J-20,7690,Chemicals
+88279,B-18,5230,Food
+77413,L-16,3894,Food
+72344,E-11,7899,Automobiles
+65967,C-20,7128,Oil
+84667,B-12,3423,Chemicals
+90340,N-16,1215,Food
+72309,M-14,6722,Raw Minerals
+62681,L-17,5280,Agricultural
+86195,P-13,7218,Intermodal Containers
+89191,N-14,9712,Forestry
+70142,L-14,8254,Intermodal Containers
+70184,O-13,2716,Intermodal Containers
+62135,G-12,1319,Building Materials
+56293,K-16,4973,Intermodal Containers
+66232,G-12,9387,Chemicals
+78447,A-13,7663,Livestock
+81516,J-16,7532,Machinery
+51979,N-17,3555,Chemicals
+94337,E-18,1259,Automobiles
+73669,H-19,4770,Building Materials
+91632,H-13,7590,Intermodal Containers
+63525,I-10,6645,Building Materials
+95894,C-16,7725,Intermodal Containers
+73544,N-11,5705,Electronics
+91262,B-11,5697,Forestry
+73172,D-13,6584,Forestry
+98706,J-15,4878,Food
+67752,E-12,1000,Intermodal Containers
+81502,H-17,7419,Forestry
+70530,G-18,3793,Electronics
+82390,K-10,2455,Electronics
+92136,E-16,1182,Automobiles
+70071,C-12,4794,Chemicals
+73000,G-17,5015,Goods
+58952,B-11,5238,Forestry
+81892,N-13,9085,Oil
+74371,L-16,4534,Intermodal Containers
+97374,M-15,1290,Forestry
+98527,B-14,2460,Goods
+66463,I-18,3365,Agricultural
+57061,F-17,1156,Intermodal Containers
+87527,D-16,5270,Oil
+82133,M-15,2789,Forestry
+53247,E-10,1443,Goods
+95477,M-13,4051,Raw Minerals
+55494,P-11,3833,Forestry
+59023,F-17,9226,Forestry
+62679,C-17,1989,Food
+56814,C-12,9360,Building Materials
+91332,G-11,3786,Electronics
+95531,B-13,2738,Automobiles
+65567,F-19,8729,Goods
+54521,P-10,9327,Livestock
+86804,P-15,4646,Metals
+50103,B-13,8897,Chemicals
+89594,N-20,6448,Oil
+83948,G-15,7945,Building Materials
+56796,D-18,8384,Goods
+92796,E-17,4307,Chemicals
+65653,J-15,2062,Building Materials
+59173,O-17,7403,Automobiles
+84307,G-19,1194,Automobiles
+96756,C-12,9429,Agricultural
+82341,M-13,3242,Goods
+86560,D-12,2425,Metals
+91142,I-18,8089,Oil
+88132,F-13,9815,Forestry
+52427,E-17,3212,Intermodal Containers
+96142,H-17,8081,Livestock
+99986,C-11,1009,Oil
+68110,E-17,6397,Raw Minerals
+94813,A-17,3629,Machinery
+59465,I-20,9524,Metals
+60584,N-18,1166,Machinery
+65017,A-16,5529,Building Materials
+99303,N-17,5445,Goods
+60238,E-19,5742,Automobiles
+71811,E-14,1986,Raw Minerals
+95947,K-13,4998,Chemicals
+51322,P-13,9578,Automobiles
+64806,K-17,5461,Electronics
+70559,H-18,8304,Building Materials
+58963,A-16,7182,Livestock
+85594,P-16,5859,Livestock
+89324,K-10,9161,Intermodal Containers
+65216,C-15,1047,Food
+96477,A-11,9117,Building Materials
+92286,H-12,7587,Raw Minerals
+95837,K-20,9261,Building Materials
+60657,L-11,6326,Chemicals
+58636,D-16,4819,Raw Minerals
+50001,M-10,1924,Electronics
+99596,K-20,5361,Automobiles
+55955,K-13,4066,Intermodal Containers
+70384,H-17,9843,Building Materials
+59197,C-18,5478,Agricultural
+78799,E-19,2245,Electronics
+89672,K-10,5198,Chemicals
+81280,M-12,8518,Intermodal Containers
+78637,G-20,2868,Automobiles
+68958,N-12,4466,Agricultural
+96103,A-11,8493,Goods
+60389,D-15,6833,Metals
+88232,A-11,3780,Raw Minerals
+95166,G-12,1766,Agricultural
+66475,C-14,1213,Intermodal Containers
+60931,K-14,2492,Food
+58122,N-19,3257,Building Materials
+94513,B-11,9059,Agricultural
+93106,E-16,3964,Chemicals
+70048,B-16,1317,Building Materials
+59961,G-19,3564,Intermodal Containers
+59310,P-16,8131,Automobiles
+72943,M-14,1592,Intermodal Containers
+98165,M-19,8943,Food
+76391,M-11,9165,Goods
+71324,M-20,5060,Agricultural
+52902,C-17,6857,Forestry
+75451,A-14,7068,Livestock
+85999,E-12,1579,Metals
+78330,J-11,9358,Food
+91103,I-17,2281,Forestry
+88441,K-19,5880,Goods
+76860,J-11,1768,Agricultural
+51022,L-13,7570,Forestry
+93613,P-18,1160,Machinery
+69912,G-17,9060,Livestock
+65481,I-14,1573,Chemicals
+71558,N-14,5685,Food
+70626,G-13,3754,Food
+74442,A-16,3610,Agricultural
+68777,E-12,4799,Oil
+61755,M-16,3596,Goods
+54190,D-15,2036,Chemicals
+87168,N-20,6578,Food
+73375,C-17,4881,Agricultural
+57421,G-11,1388,Metals
+97022,D-10,7332,Automobiles
+80147,N-20,7038,Electronics
+75653,I-11,2613,Metals
+96491,P-12,9656,Automobiles
+84516,J-14,5922,Electronics
+57327,K-15,1763,Building Materials
+72233,B-11,1040,Metals
+74682,F-13,1575,Forestry
+81824,M-17,2142,Goods
+54864,O-15,2559,Automobiles
+66782,D-10,2720,Raw Minerals
+93954,H-10,9062,Raw Minerals
+76831,N-12,5003,Machinery
+58198,N-13,7729,Food
+80586,G-10,4762,Raw Minerals
+59431,L-13,2268,Electronics
+70662,D-11,3346,Agricultural
+65612,L-16,5339,Chemicals
+75648,I-16,6719,Electronics
+95596,I-10,5790,Metals
+52549,O-14,4878,Building Materials
+67078,P-11,5726,Electronics
+71894,O-19,2382,Raw Minerals
+68452,L-11,6034,Food
+56269,F-20,4205,Food
+88117,L-16,2462,Metals
+50178,H-11,1362,Building Materials
+60630,E-17,6568,Chemicals
+93636,L-19,3034,Machinery
+74009,D-13,9124,Oil
+54444,L-12,4059,Intermodal Containers
+60762,I-20,5304,Chemicals
+69074,L-13,9309,Metals
+60733,M-17,5796,Intermodal Containers
+81284,P-16,3717,Agricultural
+53873,E-11,4694,Goods
+87093,H-10,4866,Chemicals
+50260,L-14,2432,Livestock
+58583,P-12,4483,Machinery
+75740,I-18,6973,Oil
+71177,F-13,5355,Livestock
+87856,P-13,6325,Goods
+86200,B-11,3160,Chemicals
+54957,B-18,6593,Livestock
+96894,P-14,2999,Food
+97314,M-10,8342,Raw Minerals
+87741,K-16,3908,Agricultural
+64191,L-13,1174,Metals
+63088,I-15,2142,Intermodal Containers
+98831,B-14,5211,Intermodal Containers
+75381,J-11,5327,Machinery
+71496,H-13,1506,Livestock
+62517,N-16,8828,Intermodal Containers
+94417,A-17,3116,Chemicals
+71810,F-18,2306,Agricultural
+81587,C-19,1116,Raw Minerals
+60139,M-10,7248,Metals
+64749,N-15,9497,Chemicals
+51086,P-14,3265,Automobiles
+67412,E-15,7396,Intermodal Containers
+59779,B-10,5084,Oil
+64627,G-16,8084,Electronics
+93202,E-12,5798,Electronics
+91954,J-11,8123,Food
+92190,D-10,8607,Automobiles
+78347,J-18,6186,Forestry
+97788,P-15,9039,Machinery
+72893,N-13,6456,Food
+51921,A-16,9903,Raw Minerals
+85222,J-11,1747,Raw Minerals
+73031,J-19,9299,Food
+71929,I-19,5308,Machinery
+91955,H-18,8146,Oil
+89942,J-14,5570,Intermodal Containers
+96494,K-19,6448,Food
+96329,H-17,5217,Machinery
+90658,I-14,2765,Oil
+51568,K-10,9998,Chemicals
+70731,H-13,4534,Electronics
+94045,J-13,3906,Forestry
+60880,L-13,4296,Automobiles
+71364,K-18,6831,Automobiles
+92251,O-20,2280,Food
+89531,G-19,7552,Electronics
+75973,A-14,6358,Raw Minerals
+61288,P-17,9300,Agricultural
+81927,F-18,2533,Metals
+75950,K-18,8682,Machinery
+86064,D-19,3663,Building Materials
+66916,N-11,6448,Agricultural
+65882,G-10,3581,Intermodal Containers
+88497,J-18,6126,Machinery
+85844,N-18,7947,Metals
+50489,K-18,6729,Automobiles
+75700,B-20,5073,Raw Minerals
+75047,J-14,9422,Chemicals
+94784,M-17,4196,Building Materials
+86845,P-18,3490,Electronics
+57710,E-20,1849,Livestock
+53578,P-14,9177,Livestock
+87470,E-13,5385,Building Materials
+73550,G-13,3691,Intermodal Containers
+68634,O-15,8467,Electronics
+95277,F-11,2451,Intermodal Containers
+64492,O-13,8929,Machinery
+98793,N-13,3299,Raw Minerals
+61121,J-10,7855,Forestry
+55583,D-11,2665,Electronics
+67310,A-14,8533,Intermodal Containers
+85795,O-17,7432,Livestock
+80043,A-12,6368,Chemicals
+86934,O-14,1709,Goods
+99573,M-11,7165,Metals
+90871,E-20,1091,Building Materials
+97832,C-20,8834,Intermodal Containers
+52054,I-18,6699,Metals
+63186,C-20,7753,Forestry
+71080,G-17,1200,Oil
+58415,H-16,4904,Machinery
+82280,P-15,1127,Machinery
+72369,N-12,2839,Oil
+67655,H-18,1925,Agricultural
+54042,G-10,4188,Oil
+61006,I-11,8667,Forestry
+82255,E-10,7924,Building Materials
+84119,M-20,9306,Food
+54576,I-14,3386,Agricultural
+50062,G-19,1462,Agricultural
+95470,P-13,6502,Intermodal Containers
+56421,P-12,9064,Intermodal Containers
+85886,L-15,4754,Automobiles
+71215,I-10,6880,Goods
+85252,E-20,3697,Agricultural
+77051,P-18,9737,Metals
+92042,A-12,4875,Chemicals
+75266,H-17,5053,Machinery
+85737,C-12,7695,Agricultural
+53918,K-15,1849,Machinery
+55429,F-12,2364,Intermodal Containers
+96160,J-17,4764,Oil
+86789,E-20,7941,Electronics
+78568,H-15,4362,Chemicals
+85134,O-16,1544,Building Materials
+50275,B-18,1092,Electronics
+93485,I-13,1465,Chemicals
+66945,D-12,7828,Building Materials
+76986,M-13,9064,Livestock
+90243,A-11,3326,Goods
+59166,K-19,7619,Forestry
+95957,K-16,1313,Raw Minerals
+74588,E-10,7887,Machinery
+91252,I-18,3500,Metals
+53779,J-18,8990,Intermodal Containers
+50848,N-12,5318,Metals
+74822,P-15,7711,Building Materials
+65212,P-16,7217,Electronics
+85854,J-15,8684,Metals
+98759,E-19,8739,Livestock
+61679,F-11,3324,Intermodal Containers
+99452,J-11,9132,Oil
+65166,B-14,3613,Raw Minerals
+77187,I-12,8743,Oil
+83877,B-20,3430,Forestry
+52981,I-17,3389,Agricultural
+73252,B-18,4626,Goods
+93946,C-15,7438,Electronics
+61650,B-14,9047,Food
+93050,M-15,9512,Building Materials
+72700,C-17,1861,Food
+52536,G-20,4405,Automobiles
+97958,L-12,7484,Forestry
+71368,N-12,2069,Metals
+79673,B-12,2866,Livestock
+94768,B-10,5921,Forestry
+95249,L-20,6844,Chemicals
+87589,N-16,2490,Electronics
+62988,I-12,7665,Goods
+95752,A-14,4649,Building Materials
+76011,G-17,7592,Food
+56390,D-13,1932,Machinery
+52985,E-20,3041,Metals
+54205,N-17,2224,Forestry
+62638,P-18,6891,Raw Minerals
+91565,M-10,6712,Building Materials
+58038,E-19,1388,Food
+55370,O-20,6463,Livestock
+67517,C-17,2926,Automobiles
+90242,C-13,4777,Food
+99355,D-20,6947,Metals
+71609,K-11,7187,Chemicals
+93422,F-20,4099,Machinery
+89772,L-19,7753,Agricultural
+56161,F-13,5701,Intermodal Containers
+69364,I-14,7102,Agricultural
+99409,D-19,1784,Chemicals
+99252,G-14,2126,Metals
+83801,O-11,6058,Building Materials
+78310,M-14,1819,Intermodal Containers
+75171,B-10,8691,Electronics
+72930,E-12,8170,Raw Minerals
+74935,C-12,5629,Building Materials
+93058,H-20,9572,Food
+56809,J-17,3910,Raw Minerals
+92807,O-19,7843,Intermodal Containers
+66312,L-17,9662,Food
+82657,I-14,1067,Machinery
+71685,G-15,7045,Building Materials
+75678,P-16,3675,Agricultural
+52499,J-19,8937,Electronics
+87137,D-12,9605,Livestock
+75250,C-13,5488,Building Materials
+71137,J-13,9887,Livestock
+63357,D-18,7504,Chemicals
+57109,D-14,7312,Food
+81755,J-19,3286,Intermodal Containers
+82862,P-19,3876,Electronics
+63077,D-18,8155,Automobiles
+74143,G-17,7373,Electronics
+81924,M-14,1982,Agricultural
+89272,C-15,5883,Electronics
+73324,K-20,1078,Intermodal Containers
+94543,F-11,2907,Livestock
+80476,I-17,3392,Intermodal Containers
+78986,E-12,1498,Metals
+93576,C-16,2681,Agricultural
+99640,J-17,1427,Agricultural
+87725,O-14,8908,Goods
+55061,L-19,5106,Livestock
+90728,K-17,2566,Forestry
+59176,N-10,5815,Raw Minerals
+95485,E-10,7623,Goods
+99257,P-18,6484,Goods
+50957,B-11,5819,Oil
+57894,F-11,4355,Goods
+55447,E-14,4155,Oil
+66613,E-15,3127,Metals
+59221,G-17,5655,Food
+96803,K-15,3440,Chemicals
+81283,N-12,5769,Raw Minerals
+58192,F-19,7369,Metals
+62866,P-16,4694,Oil
+77551,N-18,1685,Electronics
+81697,B-20,1599,Livestock
+60669,N-12,6162,Forestry
+55159,D-11,3303,Automobiles
+94618,N-14,5775,Chemicals
+84919,L-16,1472,Goods
+88267,O-11,9600,Food
+58588,O-15,8612,Building Materials
+55523,P-17,9670,Food
+71114,N-19,2993,Machinery
+65034,H-14,5908,Forestry
+82394,G-14,3730,Electronics
+99898,B-14,9739,Metals
+51087,G-20,7807,Metals
+79255,I-11,1874,Goods
+72311,H-20,6662,Food
+93322,D-18,5892,Intermodal Containers
+81761,D-14,3499,Building Materials
+67558,O-20,1222,Food
+66054,N-14,5614,Automobiles
+91317,A-12,1185,Raw Minerals
+65809,D-12,1338,Goods
+53092,F-17,2954,Intermodal Containers
+64460,A-16,2983,Intermodal Containers
+58470,L-13,8772,Chemicals
+60411,D-14,6242,Agricultural
+91116,B-19,3979,Intermodal Containers
+61657,P-17,8502,Goods
+99529,H-19,6510,Goods
+85377,G-19,4413,Chemicals
+75029,H-16,6359,Building Materials
+83117,M-19,8007,Agricultural
+78857,C-14,4109,Building Materials
+69190,F-19,1024,Forestry
+56231,F-15,1576,Electronics
+98541,O-11,2292,Machinery
+93150,J-12,6343,Raw Minerals
+63614,A-15,2081,Chemicals
+64874,H-17,4822,Agricultural
+58376,B-15,7832,Metals
+81817,C-18,2941,Raw Minerals
+71418,E-19,3643,Forestry
+96374,J-14,2151,Raw Minerals
+88355,A-16,3906,Automobiles
+71288,A-10,4257,Metals
+85825,I-14,5234,Agricultural
+57177,D-16,1853,Metals
+83243,F-16,6900,Machinery
+70224,P-14,7916,Raw Minerals
+86677,F-16,6670,Building Materials
+88700,M-14,5854,Electronics
+72384,A-15,1773,Automobiles
+52392,F-17,2072,Forestry
+84650,O-17,1524,Machinery
+92494,O-20,9217,Machinery
+53053,B-18,9590,Machinery
+69019,A-19,9834,Raw Minerals
+84741,G-15,8370,Automobiles
+55372,C-16,2252,Machinery
+66649,L-19,1207,Oil
+71661,E-11,9174,Building Materials
+86098,B-14,8340,Automobiles
+63880,B-19,9401,Electronics
+50503,D-13,7943,Metals
+73168,F-20,5395,Raw Minerals
+96790,F-17,6990,Metals
+95262,E-16,9068,Agricultural
+98434,H-20,8462,Food
+54101,E-19,5886,Oil
+82927,M-19,5565,Food
+85827,D-10,5585,Livestock
+85749,G-15,9103,Agricultural
+70012,F-11,8603,Forestry
+53436,P-19,4533,Automobiles
+61824,O-20,8431,Agricultural
+79419,L-19,4798,Forestry
+92608,J-11,9486,Agricultural
+54648,H-13,7171,Automobiles
+73952,K-14,7852,Agricultural
+50241,K-11,6004,Metals
+65245,J-20,6731,Oil
+82909,J-17,8779,Chemicals
+54062,E-19,2788,Oil
+50753,E-12,4631,Oil
+70152,P-14,4428,Building Materials
+91241,B-17,8761,Food
+82503,I-14,1948,Intermodal Containers
+58074,B-14,8430,Food
+91819,C-19,1689,Agricultural
+55303,K-11,3872,Building Materials
+50089,L-11,7470,Agricultural
+51767,G-14,5161,Livestock
+85302,M-18,8441,Building Materials
+63055,K-19,7813,Goods
+72685,H-17,9866,Oil
+96518,E-20,2191,Machinery
+66192,A-20,2512,Machinery
+88371,D-18,3417,Intermodal Containers
+51860,O-17,8851,Machinery
+77404,F-14,1156,Forestry
+58082,B-13,1641,Oil
+86846,F-20,3782,Automobiles
+57222,A-16,3590,Forestry
+68375,H-18,7697,Agricultural
+89795,P-10,3338,Automobiles
+76540,H-13,5410,Metals
+66108,P-11,3255,Electronics
+68767,N-18,4026,Building Materials
+95778,E-11,1942,Machinery
+73399,N-19,8856,Agricultural
+57199,P-12,7768,Electronics
+51348,K-16,4054,Livestock
+82297,O-16,8727,Electronics
+72365,O-16,9972,Oil
+72403,D-16,6795,Oil
+51578,I-17,9299,Metals
+59038,O-17,5056,Livestock
+82080,G-17,8789,Intermodal Containers
+77862,D-10,4545,Metals
+59151,I-17,9217,Livestock
+73185,A-14,5904,Building Materials
+60459,N-15,7996,Livestock
+81571,A-12,5734,Metals
+62342,L-15,6692,Livestock
+76639,G-20,9951,Livestock
+82622,G-18,1558,Livestock
+52872,J-20,1794,Metals
+80601,E-12,9238,Forestry
+77113,P-15,4123,Intermodal Containers
+73823,N-17,3125,Automobiles
+85872,L-20,4495,Oil
+58311,N-17,3353,Electronics
+70977,P-17,9794,Food
+71931,L-14,1258,Agricultural
+53144,K-19,6292,Building Materials
+79494,B-19,9338,Building Materials
+85162,L-16,2082,Goods
+99514,K-16,1393,Livestock
+86372,B-18,1948,Machinery
+93942,G-19,4696,Goods
+61519,D-20,6755,Food
+57786,L-13,5507,Building Materials
+77860,A-12,8962,Livestock
+80950,N-19,8802,Forestry
+60494,F-18,3792,Goods
+87487,F-20,1559,Raw Minerals
+82121,F-20,4363,Goods
+77383,K-12,8701,Metals
+74620,F-12,9260,Forestry
+90310,O-13,1827,Food
+99052,J-20,9231,Agricultural
+77344,P-14,4202,Building Materials
+77207,D-12,8477,Intermodal Containers
+91168,P-13,6860,Metals
+62158,C-11,3562,Building Materials
+63725,L-14,2989,Livestock
+50683,A-17,3416,Livestock
+91095,P-13,9196,Agricultural
+94070,N-13,1876,Automobiles
+58733,P-16,2199,Electronics
+94707,L-20,3120,Forestry
+87606,K-20,8945,Electronics
+79720,E-18,7469,Machinery
+56980,F-11,2488,Food
+54651,O-17,3195,Metals
+63468,A-10,2746,Machinery
+67076,H-19,6703,Machinery
+77748,L-14,2767,Chemicals
+57919,J-10,8515,Livestock
+92220,F-15,3509,Electronics
+75680,C-10,7965,Metals
+97722,I-15,6807,Forestry
+87096,E-16,2330,Food
+79646,E-15,8063,Oil
+98036,M-20,3132,Oil
+75726,H-19,3783,Building Materials
+95537,D-12,9654,Machinery
+63814,E-20,9531,Oil
+81848,G-10,7700,Chemicals
+86503,O-13,6162,Intermodal Containers
+59841,F-10,2811,Oil
+61434,P-10,4938,Metals
+61421,E-11,8907,Building Materials
+89039,O-20,6442,Oil
+70153,M-11,5881,Electronics
+60354,C-18,5918,Building Materials
+99416,K-15,8484,Forestry
+64272,A-14,8000,Building Materials
+52354,P-19,3108,Machinery
+66040,F-20,6159,Chemicals
+95316,D-12,7666,Forestry
+59380,H-15,3240,Chemicals
+71692,M-11,6931,Livestock
+76341,A-11,1812,Automobiles
+72430,B-15,9372,Forestry
+52424,B-14,2318,Machinery
+70271,N-14,8900,Machinery
+77934,L-11,7436,Goods
+53230,B-18,8703,Raw Minerals
+56331,C-10,1533,Raw Minerals
+69047,M-14,1676,Forestry
+84915,G-14,1499,Raw Minerals
+63645,P-15,2486,Automobiles
+90209,O-15,4435,Raw Minerals
+53290,I-12,9000,Machinery
+59496,J-11,3804,Machinery
+78680,O-16,6974,Oil
+74109,C-20,9533,Chemicals
+66458,L-11,4888,Building Materials
+74884,K-14,8536,Building Materials
+75957,E-10,2529,Oil
+83443,B-20,5362,Chemicals
+77687,H-20,3603,Automobiles
+82897,P-14,4718,Electronics
+90276,K-18,4104,Building Materials
+75632,A-14,6961,Metals
+84270,N-18,9101,Goods
+74281,G-11,8119,Building Materials
+64630,I-12,3636,Automobiles
+68140,D-16,4286,Food
+87721,F-10,9695,Food
+76942,G-20,8370,Electronics
+90475,M-19,6698,Oil
+64438,J-13,6245,Chemicals
+56839,L-18,8210,Machinery
+63987,N-10,3857,Forestry
+91280,G-18,9284,Intermodal Containers
+97104,G-15,8325,Machinery
+98953,C-15,8312,Chemicals
+63877,D-14,3124,Machinery
+87046,A-11,2133,Chemicals
+99186,P-18,1393,Food
+69227,H-15,5544,Intermodal Containers
+73585,D-12,6555,Goods
+50578,D-18,3074,Livestock
+75603,F-13,6696,Agricultural
+80325,D-18,9270,Raw Minerals
+73473,P-12,1276,Building Materials
+52073,H-14,5065,Oil
+61036,F-17,8580,Automobiles
+67751,G-13,7458,Livestock
+88270,K-17,4649,Goods
+91553,L-14,8936,Intermodal Containers
+90383,D-11,4307,Forestry
+69986,M-19,6075,Oil
+86540,I-18,5592,Forestry
+77451,J-12,3182,Forestry
+56190,F-19,4286,Machinery
+68172,H-10,3116,Electronics
+64271,K-10,2596,Forestry
+83138,C-19,1811,Agricultural
+74708,M-12,9644,Building Materials
+52241,J-18,8472,Automobiles
+53179,K-11,2074,Forestry
+58561,D-16,8461,Forestry
+55396,N-19,2415,Oil
+83289,E-11,7684,Food
+72911,J-17,4278,Building Materials
+72033,B-19,1215,Electronics
+80270,M-18,4633,Machinery
+83301,M-19,6158,Goods
+62037,H-14,4360,Food
+81282,E-13,7927,Intermodal Containers
+58140,G-11,1091,Food
+95199,J-10,6955,Building Materials
+80110,E-15,3752,Building Materials
+88079,K-13,4140,Electronics
+87155,P-16,9023,Machinery
+77131,H-17,9031,Electronics
+80504,O-12,7499,Chemicals
+96761,N-14,1261,Building Materials
+59478,G-18,9330,Metals
+73925,C-20,3799,Automobiles
+57471,M-15,4773,Building Materials
+78518,J-19,9067,Forestry
+67210,N-12,8340,Electronics
+67059,F-17,7135,Forestry
+61736,F-20,9949,Forestry
+91814,D-17,8894,Electronics
+52771,F-19,7457,Food
+81916,C-18,9020,Metals
+65289,E-15,1329,Electronics
+99413,A-11,1159,Food
+84791,F-17,5327,Forestry
+78559,L-15,7043,Building Materials
+73837,A-12,7930,Chemicals
+95990,I-15,6432,Livestock
+54447,A-20,3721,Electronics
+83977,O-15,9389,Metals
+86703,I-19,2563,Machinery
+87625,L-19,1505,Livestock
+93015,F-19,3234,Food
+58101,H-15,9689,Forestry
+97828,P-14,9678,Chemicals
+68401,F-10,2303,Intermodal Containers
+70676,H-16,2354,Electronics
+56419,E-19,1249,Agricultural
+68628,P-12,3278,Intermodal Containers
+70217,M-12,2697,Machinery
+70595,D-19,1239,Chemicals
+97515,E-12,1179,Chemicals
+68769,A-15,1393,Goods
+53976,K-17,7256,Automobiles
+77870,B-10,4991,Raw Minerals
+63554,I-11,1957,Forestry
+72232,A-10,4410,Automobiles
+86462,E-18,6511,Agricultural
+84657,O-10,9785,Oil
+65806,O-12,3294,Agricultural
+87331,D-14,7330,Oil
+53196,G-14,7570,Intermodal Containers
+59940,C-18,1451,Intermodal Containers
+88510,N-11,4819,Forestry
+71977,G-13,8973,Chemicals
+53036,M-15,2541,Agricultural
+93496,M-20,5813,Chemicals
+91725,D-13,7292,Chemicals
+99000,M-10,9833,Intermodal Containers
+79111,J-15,9635,Automobiles
+51536,D-11,6806,Raw Minerals
+69415,J-14,4405,Metals
+96512,I-15,4320,Machinery
+67589,K-13,3963,Machinery
+94747,C-16,6645,Chemicals
+92459,J-16,4367,Machinery
+74386,O-16,6795,Raw Minerals
+54209,I-18,6508,Electronics
+83079,O-16,9251,Livestock
+64947,C-18,9615,Automobiles
+99384,G-20,9687,Electronics
+51509,F-18,9100,Goods
+93437,F-19,8631,Intermodal Containers
+96151,C-11,7816,Electronics
+58498,J-10,5880,Goods
+82660,F-13,7695,Metals
+66124,H-10,6719,Raw Minerals
+54582,A-10,1928,Food
+80631,D-12,4293,Raw Minerals
+52287,H-12,6554,Raw Minerals
+76318,L-16,7571,Chemicals
+67504,P-16,7549,Oil
+51162,C-19,1431,Oil
+95265,B-15,7741,Goods
+72251,F-18,7702,Agricultural
+87037,E-18,6900,Agricultural
+80723,L-19,7696,Forestry
+93927,F-10,7700,Goods
+58325,E-17,5464,Goods
+96652,F-17,4050,Goods
+55407,H-14,9190,Chemicals
+59149,M-18,7157,Agricultural
+93863,J-12,5398,Building Materials
+81684,J-19,8715,Intermodal Containers
+80549,F-16,9244,Agricultural
+53741,B-19,7654,Building Materials
+78730,J-11,8563,Chemicals
+60854,O-19,5911,Food
+74234,K-11,3848,Food
+85532,H-13,4793,Forestry
+96898,J-10,6273,Automobiles
+85343,E-16,1642,Forestry
+87627,N-12,8194,Raw Minerals
+86333,L-15,2418,Forestry
+79439,F-13,5099,Intermodal Containers
+81382,N-14,4587,Intermodal Containers
+75040,G-17,4037,Livestock
+70801,E-15,7915,Oil
+51360,E-19,2532,Building Materials
+96248,I-10,1730,Building Materials
+89985,P-13,4361,Livestock
+67802,I-16,3034,Metals
+88841,P-15,7222,Livestock
+61831,K-19,5099,Agricultural
+97407,E-18,1436,Intermodal Containers
+93556,D-14,6385,Agricultural
+86140,P-13,9439,Raw Minerals
+53895,N-15,9352,Electronics
+55309,J-12,9049,Oil
+61362,D-13,8275,Chemicals
+82590,K-10,7946,Machinery
+64547,M-15,5003,Chemicals
+98325,G-14,3135,Chemicals
+84598,C-13,5808,Intermodal Containers
+83205,A-18,5970,Chemicals
+65268,H-13,9733,Automobiles
+97593,J-19,4654,Forestry
+50831,P-20,2039,Forestry
+60460,H-16,5747,Building Materials
+73641,E-14,5363,Electronics
+85174,P-15,1540,Intermodal Containers
+74317,P-18,3260,Machinery
+97178,J-11,9404,Building Materials
+63753,O-20,5333,Automobiles
+97580,I-18,7353,Machinery
+89113,O-16,4171,Electronics
+77830,O-17,3654,Machinery
+60202,F-13,4255,Electronics
+78060,A-13,9038,Machinery
+51328,B-10,8197,Electronics
+76567,A-13,7027,Goods
+70808,L-14,4398,Raw Minerals
+56754,F-11,2114,Chemicals
+96119,A-11,3154,Goods
+77759,M-17,7061,Machinery
+63381,P-11,6071,Automobiles
+72314,O-10,3179,Goods
+71197,B-16,1744,Agricultural
+57535,N-15,6846,Raw Minerals
+61975,D-10,5824,Metals
+98940,G-10,6167,Metals
+99124,I-18,6455,Automobiles
+72758,D-18,1412,Oil
+53091,C-12,6925,Automobiles
+66292,C-10,2159,Intermodal Containers
+73471,A-13,5057,Goods
+76785,H-12,1090,Forestry
+85533,O-14,4014,Electronics
+73071,P-15,1078,Machinery
+68894,M-16,1437,Electronics
+71559,I-16,3039,Oil
+50596,H-17,4725,Intermodal Containers
+93579,L-14,3765,Livestock
+56673,I-17,9223,Oil
+71659,D-12,5398,Forestry
+57606,A-14,7400,Electronics
+89417,L-10,2886,Electronics
+98268,L-12,9422,Automobiles
+96938,K-14,9917,Intermodal Containers
+53508,C-10,8920,Food
+69319,M-20,3001,Forestry
+95417,L-10,7604,Raw Minerals
+68098,D-12,2499,Food
+75706,I-14,7496,Intermodal Containers
+96055,O-11,4526,Intermodal Containers
+97243,F-20,8191,Food
+70761,K-17,1303,Automobiles
+59623,C-18,8707,Oil
+96568,G-18,1697,Food
+70778,D-19,6863,Building Materials
+87087,K-15,3241,Goods
+78220,B-11,8679,Forestry
+63380,E-11,6953,Goods
+54040,C-11,6424,Forestry
+65329,I-19,6424,Metals
+95671,D-19,3903,Goods
+68199,L-15,6713,Chemicals
+68531,P-19,9955,Agricultural
+88840,K-13,7343,Building Materials
+58465,B-19,6158,Forestry
+64787,N-13,8233,Machinery
+84055,L-20,7558,Oil
+99894,K-11,5958,Forestry
+80340,M-18,8771,Goods
+87119,A-17,3591,Agricultural
+97568,G-10,2970,Forestry
+58205,E-15,4490,Metals
+59833,H-17,8279,Food
+65578,O-12,7246,Machinery
+99099,I-12,4138,Machinery
+86508,N-16,6246,Livestock
+76294,B-19,5370,Machinery
+89636,J-19,5901,Electronics
+63001,D-17,3421,Goods
+62572,F-11,8055,Goods
+71271,G-20,8521,Oil
+66279,F-18,4966,Goods
+66438,M-20,5996,Intermodal Containers
+90625,E-14,4419,Forestry
+75385,E-17,1726,Metals
+51404,D-11,4835,Automobiles
+59022,D-16,2142,Livestock
+59658,F-15,3243,Metals
+97748,F-15,7673,Machinery
+63966,J-10,4191,Raw Minerals
+74351,B-17,4761,Automobiles
+76369,K-14,3922,Electronics
+95135,G-10,4183,Oil
+61739,B-16,6188,Forestry
+91594,G-20,9858,Agricultural
+57912,O-17,2021,Machinery
+53175,M-11,6847,Intermodal Containers
+80873,E-16,2128,Machinery
+57358,A-10,4808,Goods
+75441,I-20,9335,Raw Minerals
+86380,C-15,7083,Metals
+90249,N-16,4296,Building Materials
+67212,D-18,1115,Intermodal Containers
+89955,B-15,6728,Goods
+94444,G-19,6144,Raw Minerals
+78311,N-10,5241,Electronics
+58111,K-19,9592,Forestry
+69082,L-15,9027,Livestock
+80714,F-13,1518,Agricultural
+53875,J-18,2583,Chemicals
+67194,H-14,9408,Livestock
+73370,G-16,7429,Forestry
+91343,E-20,4091,Livestock
+92373,N-11,1111,Metals
+86356,M-19,5028,Automobiles
+56305,G-18,3786,Oil
+77603,N-13,3093,Automobiles
+57355,G-20,2808,Agricultural
+87524,L-18,8087,Chemicals
+86403,M-15,5591,Chemicals
+59409,N-18,1443,Livestock
+93639,F-12,9676,Electronics
+83187,O-15,4065,Intermodal Containers
+82867,P-20,8107,Building Materials
+89146,K-14,7139,Goods
+82036,M-11,3533,Metals
+74495,M-13,2455,Machinery
+91621,N-19,3808,Metals
+80468,E-15,8881,Automobiles
+53519,D-14,4205,Oil
+58993,B-12,3431,Machinery
+97295,M-12,3669,Food
+83386,L-15,4928,Agricultural
+71076,L-18,5194,Electronics
+88820,H-12,8551,Building Materials
+97948,O-15,4079,Agricultural
+78542,B-14,3847,Metals
+97260,N-14,9019,Agricultural
+62191,F-14,7245,Food
+98087,M-12,8857,Raw Minerals
+72729,O-12,7794,Goods
+73020,B-18,1748,Oil
+84384,P-16,8775,Intermodal Containers
+86214,D-16,5450,Electronics
+70632,L-17,8735,Forestry
+70600,B-12,8522,Intermodal Containers
+62792,I-16,2466,Livestock
+88956,F-13,5999,Livestock
+56142,A-12,3440,Electronics
+53726,D-17,6207,Machinery
+68685,D-17,2598,Goods
+89822,K-13,9087,Intermodal Containers
+81036,G-14,8495,Food
+65532,O-11,7041,Building Materials
+85369,B-19,1937,Forestry
+65790,H-15,8651,Forestry
+77370,B-16,6703,Livestock
+85006,L-17,2123,Machinery
+85495,J-19,7692,Metals
+59185,K-11,6071,Food
+84223,K-10,6916,Raw Minerals
+63128,D-19,3589,Raw Minerals
+91132,C-13,1551,Metals
+67151,H-14,4733,Raw Minerals
+59041,E-16,1719,Electronics
+76010,D-17,3493,Oil
+77398,B-14,9247,Intermodal Containers
+92673,J-17,5561,Food
+84911,C-19,8244,Food
+68974,B-17,9092,Electronics
+54183,I-15,4975,Forestry
+90396,H-18,6221,Intermodal Containers
+95282,G-11,5124,Livestock
+61068,P-15,3301,Chemicals
+77009,H-10,7771,Forestry
+69116,P-10,2017,Livestock
+50963,P-15,8313,Intermodal Containers
+50885,E-14,2024,Agricultural
+69014,J-16,3210,Machinery
+51028,H-15,5886,Automobiles
+60400,M-17,2947,Machinery
+60824,A-17,5956,Intermodal Containers
+84801,C-17,7831,Chemicals
+77621,A-10,2234,Automobiles
+56321,P-14,5652,Automobiles
+90924,I-14,8796,Automobiles
+92591,C-19,7532,Forestry
+76201,A-15,6591,Intermodal Containers
+74293,D-19,5053,Machinery
+53690,C-18,9574,Livestock
+56982,P-12,5206,Intermodal Containers
+60136,K-19,3848,Automobiles
+59828,B-15,8529,Building Materials
+65629,E-19,7678,Forestry
+76184,D-18,3012,Raw Minerals
+59215,B-13,3295,Agricultural
+88853,M-18,4040,Livestock
+64788,N-19,7897,Raw Minerals
+61901,D-13,9490,Chemicals
+59590,C-18,2562,Electronics
+97520,I-12,6144,Electronics
+84797,E-14,1529,Electronics
+81690,P-16,8665,Chemicals
+60009,K-13,3098,Machinery
+57992,E-17,9076,Oil
+88354,L-20,9818,Building Materials
+84031,B-19,9245,Machinery
+65183,J-11,2373,Electronics
+91684,B-18,6461,Machinery
+96161,A-16,6336,Building Materials
+68692,J-10,1816,Automobiles
+83642,L-14,1382,Building Materials
+80961,C-12,8404,Forestry
+66013,H-13,9682,Building Materials
+66848,A-16,9691,Building Materials
+72681,M-14,2555,Agricultural
+72964,D-19,8160,Food
+71915,E-13,2192,Food
+98676,E-20,6760,Agricultural
+96539,O-17,2110,Forestry
+83163,G-10,3074,Livestock
+98116,K-10,8710,Goods
+89287,D-19,8821,Food
+78171,P-11,3249,Machinery
+89830,P-20,6541,Electronics
+53032,O-20,1437,Food
+82572,I-10,3654,Metals
+54169,G-14,2562,Electronics
+86779,G-19,7248,Food
+87807,B-10,5756,Electronics
+76265,N-11,1161,Building Materials
+53899,G-18,6070,Goods
+62346,E-12,9940,Goods
+85820,L-14,5070,Intermodal Containers
+64101,I-15,8327,Intermodal Containers
+92828,M-10,8092,Raw Minerals
+88835,B-11,2393,Agricultural
+92122,O-19,2596,Agricultural
+92970,K-18,9069,Goods
+61668,I-16,3814,Agricultural
+90709,I-18,9000,Automobiles
+53824,F-20,9863,Oil
+57323,D-15,2178,Automobiles
+92848,E-12,8428,Raw Minerals
+71670,L-11,8144,Electronics
+50594,H-16,5172,Chemicals
+87121,M-10,4638,Chemicals
+96653,A-17,1116,Electronics
+51299,C-15,4088,Intermodal Containers
+52978,J-14,1417,Oil
+70596,I-11,8561,Automobiles
+89796,M-16,9187,Electronics
+76889,M-19,9268,Goods
+59489,O-16,8457,Building Materials
+78544,A-11,6178,Building Materials
+99502,E-14,5138,Livestock
+85149,F-15,7897,Forestry
+74224,E-17,2243,Metals
+53813,B-15,3519,Machinery
+70249,D-17,2627,Electronics
+70718,P-13,3141,Automobiles
+62417,F-17,3628,Intermodal Containers
+58060,M-16,3804,Food
+76587,E-11,5107,Electronics
+59085,P-16,5713,Building Materials
+61761,D-19,7592,Oil
+78048,B-12,3746,Food
+74890,H-20,9742,Agricultural
+56081,M-12,9061,Electronics
+57689,C-12,8927,Goods
+70345,B-13,5746,Building Materials
+85792,A-18,1584,Raw Minerals
+92792,K-10,3706,Intermodal Containers
+50349,M-10,2029,Machinery
+79787,N-19,5655,Agricultural
+65579,B-17,3818,Building Materials
+73412,D-11,8606,Building Materials
+53149,C-15,5981,Livestock
+92580,A-11,2731,Chemicals
+61941,B-17,3385,Electronics
+85079,B-17,1615,Oil
+97411,M-14,3223,Building Materials
+77617,K-18,1293,Agricultural
+87254,M-11,5755,Metals
+57135,L-15,6870,Agricultural
+86248,E-16,9309,Building Materials
+93972,L-17,5927,Food
+69305,B-20,8566,Automobiles
+69337,E-18,4455,Raw Minerals
+95005,J-11,4998,Raw Minerals
+61224,E-16,5022,Food
+69609,J-11,3385,Livestock
+78862,D-17,1338,Livestock
+58905,A-16,6330,Oil
+56064,P-19,4353,Automobiles
+79252,M-14,4677,Goods
+51752,M-16,9315,Goods
+76877,N-14,7985,Chemicals
+68835,D-13,4476,Machinery
+74336,G-16,2448,Oil
+50219,J-16,4683,Oil
+97431,A-13,1011,Agricultural
+81111,H-12,6159,Metals
+77506,G-15,4707,Machinery
+80151,C-17,2404,Metals
+50162,N-20,4893,Food
+87350,D-12,9506,Goods
+64233,N-11,1213,Building Materials
+89774,N-16,4387,Forestry
+57633,G-11,3798,Oil
+75670,O-17,1573,Machinery
+66340,J-15,5588,Oil
+54367,D-20,8487,Oil
+71604,C-15,4330,Food
+91590,D-17,2778,Building Materials
+99884,D-15,7279,Chemicals
+65482,N-14,1538,Machinery
+91425,A-16,7695,Electronics
+65375,D-16,3547,Metals
+83759,C-15,7840,Raw Minerals
+58261,D-15,1435,Chemicals
+55504,M-12,1334,Oil
+90613,E-19,9729,Metals
+54843,F-16,4160,Livestock
+54947,N-17,1697,Machinery
+68806,O-10,3751,Intermodal Containers
+73855,C-18,4902,Agricultural
+95119,A-15,4530,Oil
+90426,I-17,9370,Chemicals
+87830,N-13,2988,Chemicals
+50739,F-18,1349,Livestock
+50624,B-17,2904,Electronics
+72857,M-19,3170,Goods
+64600,L-13,1285,Goods
+71581,E-15,8865,Livestock
+75523,G-13,5258,Oil
+51889,A-20,7930,Livestock
+73990,E-19,2663,Oil
+72678,M-16,3630,Electronics
+50888,N-16,3215,Machinery
+87879,J-15,2536,Chemicals
+63123,N-19,1688,Electronics
+71773,H-14,4618,Goods
+66341,A-17,1255,Intermodal Containers
+59883,C-15,9258,Food
+54662,H-16,4293,Raw Minerals
+70925,E-18,6557,Raw Minerals
+78570,C-20,3673,Goods
+50172,P-15,2854,Building Materials
+55238,G-13,7134,Livestock
+83532,I-20,6471,Machinery
+65903,A-19,1534,Forestry
+93857,B-16,8094,Intermodal Containers
+82564,G-11,1172,Building Materials
+99499,P-12,8770,Metals
+87194,O-19,3045,Electronics
+95051,O-13,1234,Electronics
+90887,H-15,9524,Food
+75657,M-18,1449,Livestock
+84772,H-20,7881,Forestry
+91240,D-12,9197,Goods
+74324,M-11,6987,Agricultural
+79965,J-20,4657,Intermodal Containers
+99373,F-15,3541,Livestock
+51262,A-19,1287,Livestock
+98240,J-19,5974,Automobiles
+54965,N-14,4417,Food
+58529,N-10,1198,Goods
+54835,J-19,2023,Chemicals
+99096,I-14,3128,Raw Minerals
+52367,M-18,6090,Livestock
+82348,L-20,4348,Electronics
+66934,M-19,7118,Forestry
+77059,D-13,9446,Machinery
+54565,K-18,2330,Food
+90165,I-11,1591,Livestock
+55374,C-17,3285,Automobiles
+72789,K-10,2556,Metals
+95288,H-11,4064,Raw Minerals
+97120,M-15,5432,Raw Minerals
+87505,C-10,5913,Food
+93386,E-11,8501,Livestock
+64487,E-18,7434,Agricultural
+71615,I-10,4446,Livestock
+66298,B-14,9795,Intermodal Containers
+97930,H-15,7084,Oil
+93686,B-20,3697,Raw Minerals
+75190,J-13,8488,Electronics
+50570,A-10,2172,Food
+54037,C-17,9252,Machinery
+71525,D-12,6750,Goods
+72295,C-17,6047,Machinery
+71127,O-11,3474,Agricultural
+64654,B-14,9868,Automobiles
+67753,N-12,7429,Building Materials
+51387,B-18,7908,Goods
+64750,M-11,3033,Food
+91331,K-14,6774,Agricultural
+76322,P-16,9550,Oil
+59272,E-16,1145,Metals
+60608,J-18,3371,Raw Minerals
+65007,M-19,7611,Raw Minerals
+61912,E-11,6654,Agricultural
+52676,A-16,9894,Forestry
+92138,J-16,2692,Metals
+73737,C-13,7159,Agricultural
+60304,F-20,5950,Metals
+92053,L-14,6397,Machinery
+52346,C-18,1544,Electronics
+92148,C-15,6491,Food
+83839,N-12,7590,Machinery
+68062,K-18,4629,Metals
+75142,O-18,4866,Building Materials
+75297,F-11,4900,Intermodal Containers
+58619,D-15,9972,Intermodal Containers
+71967,H-19,9885,Livestock
+53951,L-12,7720,Goods
+97576,L-13,1937,Livestock
+74081,N-16,2382,Chemicals
+61416,F-13,1048,Agricultural
+62986,G-13,3286,Agricultural
+83114,D-18,3602,Metals
+65729,D-15,6833,Goods
+82027,O-10,1918,Oil
+73095,K-15,2657,Intermodal Containers
+86790,P-15,3141,Intermodal Containers
+85726,G-17,4108,Raw Minerals
+79703,P-16,9983,Chemicals
+66654,J-16,6188,Agricultural
+99451,M-20,1961,Forestry
+74857,E-14,4670,Food
+60233,N-12,9815,Raw Minerals
+62173,O-14,2265,Forestry
+98094,N-15,6204,Raw Minerals
+65892,G-18,8068,Intermodal Containers
+51416,I-10,7323,Intermodal Containers
+63311,A-15,6786,Agricultural
+63107,L-16,3028,Oil
+62844,P-15,5009,Raw Minerals
+99093,M-12,6217,Automobiles
+86313,A-15,8725,Raw Minerals
+86838,J-16,6395,Automobiles
+75102,I-11,8194,Metals
+78840,E-10,2753,Chemicals
+99623,P-16,9063,Agricultural
+62214,A-16,9804,Forestry
+93617,I-10,6368,Electronics
+84521,G-11,5338,Intermodal Containers
+71334,K-13,9977,Food
+96617,M-12,6318,Electronics
+73347,N-16,6231,Electronics
+78067,E-19,4251,Food
+81312,A-18,2014,Oil
+50007,O-14,9274,Building Materials
+68951,N-10,6817,Raw Minerals
+81444,H-20,7424,Metals
+81551,E-11,9079,Metals
+57414,H-18,6928,Automobiles
+79198,O-16,8562,Building Materials
+59104,M-19,4209,Forestry
+93409,E-11,8572,Agricultural
+94379,A-18,5028,Metals
+91522,N-12,7761,Forestry
+94918,L-13,7527,Agricultural
+68987,B-15,7234,Agricultural
+68535,E-19,7397,Oil
+93320,A-10,5287,Agricultural
+96585,H-19,1319,Goods
+81456,O-20,5580,Forestry
+77916,A-14,8035,Intermodal Containers
+52172,K-15,6346,Agricultural
+55667,N-15,8265,Intermodal Containers
+98598,K-10,8698,Forestry
+53337,M-14,7431,Machinery
+76773,J-10,2809,Building Materials
+93304,M-19,9827,Goods
+83222,E-10,6670,Metals
+58771,I-16,9225,Chemicals
+55650,I-13,8843,Metals
+75552,G-20,6606,Goods
+62796,F-18,9433,Livestock
+60152,M-10,2525,Goods
+89134,D-19,8676,Livestock
+95938,K-14,2068,Building Materials
+81069,G-17,6242,Chemicals
+98660,O-20,8522,Forestry
+82419,N-16,7208,Forestry
+56866,D-20,2939,Food
+52166,C-14,7268,Raw Minerals
+59894,J-11,3985,Machinery
+72028,B-10,6104,Automobiles
+57189,J-15,5013,Oil
+92805,G-15,5624,Food
+85885,L-11,6682,Electronics
+84584,M-14,4355,Automobiles
+81704,L-17,4660,Goods
+81048,K-19,5004,Forestry
+97433,K-18,8521,Intermodal Containers
+55282,F-16,3508,Intermodal Containers
+90253,O-14,6864,Livestock
+83353,J-17,6385,Oil
+88728,H-10,4793,Building Materials
+58508,L-12,9113,Forestry
+84717,E-18,8974,Oil
+56550,D-19,2266,Food
+71351,H-16,9186,Building Materials
+96318,E-14,4987,Metals
+71000,J-16,1638,Metals
+96029,B-11,6965,Goods
+50593,J-12,6626,Electronics
+90226,H-18,7391,Machinery
+93880,A-12,6622,Machinery
+98710,P-14,5200,Machinery
+77851,D-17,2231,Metals
+59081,D-19,1980,Raw Minerals
+57065,P-11,9798,Electronics
+61452,G-19,2765,Metals
+63239,E-17,2862,Goods
+60219,A-20,1293,Intermodal Containers
+71744,C-17,9543,Food
+87993,G-11,8977,Machinery
+59932,O-17,6127,Chemicals
+56728,C-19,3353,Raw Minerals
+66448,K-14,1445,Goods
+80669,G-10,7370,Machinery
+89198,L-17,7707,Chemicals
+80529,F-20,6411,Raw Minerals
+84661,D-18,8565,Oil
+79009,O-13,3783,Forestry
+61908,N-13,4318,Chemicals
+50508,C-15,6210,Food
+82236,P-10,7777,Goods
+64563,A-15,3661,Agricultural
+52769,H-15,7190,Oil
+75324,P-14,5741,Raw Minerals
+69135,G-14,5277,Automobiles
+55232,P-19,8782,Agricultural
+91786,L-14,8344,Oil
+74701,N-12,3633,Oil
+69767,P-20,9949,Livestock
+71852,D-16,9214,Forestry
+99567,M-13,3797,Agricultural
+84114,F-19,1344,Oil
+61978,F-13,6012,Chemicals
+94621,G-10,7733,Raw Minerals
+73112,M-20,5754,Livestock
+77112,J-11,8010,Agricultural
+83271,A-16,4138,Goods
+75904,F-16,1603,Chemicals
+88680,D-15,8474,Chemicals
+98429,E-16,6841,Agricultural
+92957,P-10,9399,Machinery
+90730,I-20,8936,Electronics
+61004,J-10,6092,Building Materials
+50700,J-16,9786,Machinery
+78476,A-16,1338,Food
+58969,O-11,6689,Electronics
+63038,C-13,3347,Livestock
+98418,C-17,2809,Automobiles
+99265,P-12,1390,Forestry
+81419,C-12,6048,Chemicals
+70520,D-16,2188,Electronics
+62083,J-17,1261,Raw Minerals
+72554,M-14,7097,Chemicals
+70465,G-16,4816,Intermodal Containers
+80911,L-14,6584,Automobiles
+86037,E-11,5795,Agricultural
+51533,H-14,2256,Livestock
+96729,F-20,7959,Forestry
+82669,L-15,5410,Metals
+91874,M-14,2955,Oil
+61555,K-13,2382,Building Materials
+69507,P-10,9500,Oil
+74082,D-15,5051,Goods
+68820,J-18,1254,Forestry
+71299,G-15,9368,Intermodal Containers
+80826,E-16,8073,Intermodal Containers
+86271,H-17,9024,Building Materials
+83068,A-11,8554,Chemicals
+61147,A-18,3015,Goods
+96768,G-19,8391,Livestock
+83394,K-19,9135,Livestock
+59234,P-18,9122,Food
+63377,I-18,8399,Agricultural
+51002,N-19,1263,Building Materials
+85183,L-12,6887,Raw Minerals
+90726,D-10,5581,Automobiles
+62331,F-13,4438,Forestry
+65072,I-19,7166,Metals
+81547,B-16,1029,Metals
+90138,O-11,9556,Agricultural
+88058,D-13,5165,Goods
+61094,D-20,6208,Chemicals
+56455,A-19,4231,Oil
+80851,N-19,9579,Machinery
+71355,P-11,8575,Building Materials
+70869,B-16,4679,Automobiles
+67867,F-16,3533,Metals
+88138,M-19,9980,Electronics
+62528,N-20,3818,Intermodal Containers
+93796,P-20,1517,Agricultural
+66586,F-13,8039,Oil
+97409,J-20,5283,Livestock
+95455,P-12,3141,Machinery
+95522,P-15,1872,Oil
+81403,L-20,8964,Oil
+87782,D-13,4049,Metals
+81204,I-17,7101,Building Materials
+96259,K-20,7930,Metals
+83362,L-19,3194,Food
+81826,P-18,1602,Electronics
+85862,L-17,7229,Metals
+78946,M-10,1713,Oil
+87218,N-13,9587,Oil
+63867,O-16,6107,Chemicals
+82992,M-15,2547,Raw Minerals
+59299,G-18,1246,Forestry
+73463,G-11,5403,Livestock
+63984,A-10,2039,Metals
+55746,A-18,3182,Building Materials
+94161,N-19,1645,Intermodal Containers
+94966,A-20,1520,Metals
+84480,P-13,4444,Food
+82907,H-11,6387,Machinery
+80367,O-12,5967,Intermodal Containers
+64252,J-16,1314,Chemicals
+52958,K-12,4073,Forestry
+94051,B-10,1101,Electronics
+85537,L-10,7036,Goods
+76249,P-20,3776,Forestry
+81743,F-16,4753,Oil
+50297,D-16,8303,Metals
+87016,E-19,6036,Agricultural
+91864,N-14,2348,Intermodal Containers
+57657,D-10,1110,Livestock
+66187,J-10,4633,Automobiles
+81861,P-12,1818,Building Materials
+98022,B-14,7011,Oil
+79106,C-12,8417,Chemicals
+50959,O-13,7889,Electronics
+73574,A-12,9945,Chemicals
+62771,J-13,1371,Raw Minerals
+70212,K-15,6060,Agricultural
+59735,G-14,5431,Oil
+57181,O-20,1118,Livestock
+59280,J-11,5673,Forestry
+77205,M-16,2754,Machinery
+88196,P-13,7356,Raw Minerals
+92309,P-14,6618,Intermodal Containers
+60831,G-17,5529,Electronics
+91096,K-14,3521,Goods
+64144,F-10,7769,Intermodal Containers
+97033,G-15,2188,Electronics
+86406,C-13,9949,Forestry
+68581,G-12,2572,Oil
+93976,E-19,9730,Livestock
+73512,G-13,6527,Raw Minerals
+80896,P-13,5074,Livestock
+70220,C-19,7848,Building Materials
+96020,K-14,9398,Raw Minerals
+75886,K-20,2670,Oil
+51807,K-15,1619,Food
+74623,K-12,6904,Electronics
+66449,G-11,8577,Oil
+74083,O-11,8027,Electronics
+57882,C-13,4310,Raw Minerals
+91199,H-20,4002,Electronics
+56675,N-10,5002,Electronics
+83772,N-16,8364,Goods
+65518,D-15,3558,Food
+60923,J-14,7366,Food
+53825,H-16,6451,Oil
+76328,E-15,9071,Raw Minerals
+78659,M-15,8737,Goods
+55808,J-17,7466,Oil
+98421,P-13,2127,Food
+77384,O-14,8608,Forestry
+91865,B-16,6819,Automobiles
+65294,J-13,7794,Raw Minerals
+69832,M-13,5189,Machinery
+51403,I-13,1832,Forestry
+86710,N-11,8278,Automobiles
+79615,K-13,9336,Oil
+83052,B-16,5128,Automobiles
+85218,P-11,9016,Food
+87744,F-16,6876,Chemicals
+69882,L-18,3859,Electronics
+75817,K-20,8148,Automobiles
+63826,C-10,1491,Intermodal Containers
+51494,K-13,2464,Building Materials
+51844,J-12,5059,Forestry
+68309,N-10,9743,Building Materials
+80288,I-14,7900,Building Materials
+72188,M-15,8608,Raw Minerals
+95392,H-14,1497,Oil
+53274,O-16,6070,Food
+66473,G-11,1587,Food
+59103,A-11,2614,Metals
+70200,P-18,2405,Intermodal Containers
+53620,C-16,8179,Forestry
+80129,J-14,6846,Agricultural
+87902,G-10,1792,Livestock
+50721,F-10,5806,Metals
+92463,M-13,3975,Automobiles
+82832,K-17,4516,Machinery
+64514,A-11,2090,Oil
+53512,I-19,4516,Electronics
+56296,H-14,5825,Electronics
+72281,P-18,8047,Electronics
+59345,C-15,7245,Metals
+75226,H-16,9632,Electronics
+51902,K-11,4638,Food
+56505,D-11,5201,Building Materials
+74256,D-17,6554,Food
+90344,H-13,9933,Raw Minerals
+73956,F-14,8890,Agricultural
+51656,L-15,4575,Raw Minerals
+84720,B-17,9905,Metals
+60162,F-18,9870,Machinery
+62758,P-19,4530,Livestock
+70239,A-12,6099,Food
+56656,H-12,7530,Forestry
+56748,L-20,1441,Food
+73590,H-15,3155,Agricultural
+75533,F-12,6067,Chemicals
+69664,I-13,7729,Goods
+89665,I-14,5322,Metals
+94953,H-11,4704,Food
+86441,L-15,1109,Food
+64506,J-10,5068,Automobiles
+92023,A-13,1746,Food
+74714,P-10,6086,Building Materials
+97971,D-12,5278,Chemicals
+53585,N-10,8323,Livestock
+62442,I-20,3441,Intermodal Containers
+90569,H-13,2626,Raw Minerals
+83238,A-12,6317,Food
+93259,A-12,3390,Food
+55276,F-15,6819,Forestry
+58887,J-17,7981,Electronics
+72044,K-18,9525,Electronics
+58320,P-17,6068,Building Materials
+60116,L-15,4787,Oil
+83134,H-10,8472,Goods
+52691,L-18,5855,Livestock
+92934,N-18,5910,Livestock
+75599,A-20,2158,Livestock
+57514,E-15,1967,Intermodal Containers
+85681,G-12,8412,Building Materials
+52839,I-11,6642,Automobiles
+57107,A-10,3939,Automobiles
+78245,K-14,2509,Livestock
+80099,G-12,2017,Automobiles
+86943,P-11,5245,Oil
+93062,N-19,7445,Food
+88195,G-15,2990,Machinery
+62465,L-11,3610,Machinery
+85025,A-20,4580,Livestock
+52261,D-13,5569,Chemicals
+93790,L-10,7830,Chemicals
+99350,G-18,5812,Livestock
+81362,E-20,6639,Machinery
+55302,B-15,6391,Livestock
+72474,P-17,8947,Electronics
+99975,P-10,6472,Chemicals
+68186,D-20,9684,Oil
+61232,J-15,3034,Agricultural
+93672,M-20,5116,Goods
+54828,L-14,8459,Building Materials
+79626,D-14,1709,Food
+68739,L-20,4506,Livestock
+71936,H-15,3579,Chemicals
+58684,E-11,5697,Goods
+77882,A-17,1473,Oil
+72450,F-11,5267,Food
+85429,J-16,9104,Chemicals
+72892,L-15,9400,Forestry
+90822,C-20,1875,Goods
+86409,M-15,6500,Livestock
+69096,H-16,1692,Machinery
+53304,A-10,1431,Forestry
+75203,B-19,5329,Machinery
+54376,D-13,5823,Metals
+93337,L-14,2464,Electronics
+94808,N-17,5112,Food
+73529,K-19,5662,Goods
+72056,H-12,4334,Metals
+69142,F-15,8738,Raw Minerals
+84904,K-17,3764,Agricultural
+91112,F-20,1896,Food
+58837,O-18,7136,Automobiles
+56975,B-18,8294,Food
+95410,D-20,7874,Goods
+98256,A-14,7555,Building Materials
+57664,L-14,2304,Livestock
+67728,L-10,9181,Food
+78232,E-17,8460,Forestry
+91873,M-20,5563,Intermodal Containers
+91980,H-20,2807,Building Materials
+60872,H-11,2505,Agricultural
+96406,F-13,9915,Intermodal Containers
+76803,L-16,8319,Oil
+81791,A-19,5329,Oil
+65784,B-14,7234,Automobiles
+81576,M-15,7998,Food
+57270,M-12,8201,Oil
+63951,I-20,8075,Agricultural
+78047,H-12,6681,Automobiles
+84820,D-14,4417,Building Materials
+53297,B-16,4646,Food
+58237,A-12,3579,Oil
+84862,C-19,1785,Forestry
+77564,F-11,6763,Building Materials
+57794,M-17,1155,Chemicals
+70768,M-12,8158,Forestry
+62725,K-18,4362,Building Materials
+71287,L-17,6669,Automobiles
+57706,E-17,9653,Raw Minerals
+89159,C-19,3757,Intermodal Containers
+96903,E-15,3679,Metals
+64895,D-13,4049,Raw Minerals
+68314,E-14,4692,Machinery
+74853,D-15,5062,Electronics
+73042,D-19,3625,Machinery
+55940,E-12,5365,Agricultural
+83281,H-19,4624,Metals
+71759,H-18,1906,Machinery
+58540,K-12,8049,Agricultural
+62920,B-15,7429,Automobiles
+67164,G-19,2186,Automobiles
+82476,I-16,9299,Electronics
+81566,I-12,5518,Intermodal Containers
+57092,J-12,2539,Food
+85856,N-16,6423,Goods
+56547,A-18,4972,Electronics
+88654,K-16,5797,Raw Minerals
+75031,J-15,4161,Intermodal Containers
+80559,B-15,4137,Livestock
+69660,I-17,6826,Raw Minerals
+64327,G-14,6837,Raw Minerals
+92145,H-12,6958,Agricultural
+60990,B-13,2355,Raw Minerals
+86383,P-11,3234,Oil
+77782,A-10,1419,Goods
+80082,D-20,1092,Livestock
+82053,L-12,4268,Oil
+81612,N-19,6308,Automobiles
+60533,G-18,8380,Automobiles
+66238,B-17,2803,Forestry
+86442,J-13,4457,Goods
+79463,J-14,9355,Agricultural
+78695,P-12,2143,Machinery
+81124,J-20,7442,Chemicals
+57643,N-16,3591,Electronics
+96855,G-13,4197,Chemicals
+98681,C-15,3479,Food
+87867,F-20,2783,Forestry
+64510,B-13,8368,Electronics
+66565,F-11,8914,Raw Minerals
+89445,G-20,2239,Electronics
+58080,I-11,1980,Agricultural
+89463,H-18,1013,Machinery
+77407,J-14,3060,Food
+76289,K-19,2942,Automobiles
+54261,O-12,2902,Forestry
+62534,A-16,2835,Livestock
+99979,F-13,5479,Agricultural
+55242,E-19,8079,Raw Minerals
+68555,N-20,3117,Intermodal Containers
+61419,H-20,1871,Metals
+60300,J-14,8858,Oil
+89915,G-12,4015,Chemicals
+81292,C-18,7155,Forestry
+99244,F-18,6772,Chemicals
+63868,G-11,4973,Electronics
+58928,I-14,9412,Chemicals
+83505,C-13,4794,Food
+76545,M-12,4606,Metals
+81738,O-13,3284,Raw Minerals
+80229,I-12,2594,Agricultural
+89054,B-15,8363,Oil
+56008,N-19,6482,Forestry
+54122,H-15,3703,Livestock
+58846,H-12,3029,Machinery
+79076,I-12,1955,Machinery
+79038,G-15,8238,Electronics
+92660,P-14,6225,Machinery
+68503,C-20,1548,Intermodal Containers
+60661,E-19,7764,Building Materials
+69632,H-12,3943,Livestock
+58184,O-19,7016,Machinery
+88089,D-19,8331,Machinery
+72333,A-12,1524,Food
+97056,H-10,7189,Forestry
+50410,L-13,3343,Chemicals
+69070,F-10,3311,Metals
+54690,M-18,9383,Machinery
+99023,H-16,1892,Building Materials
+57239,C-19,2789,Raw Minerals
+82620,C-14,4870,Agricultural
+56201,C-15,5732,Goods
+78338,J-16,6371,Automobiles
+90306,J-15,2982,Livestock
+78274,B-14,1349,Chemicals
+73356,B-11,9885,Machinery
+73022,B-15,4377,Forestry
+69196,E-18,6975,Oil
+77949,D-12,5516,Building Materials
+94067,J-12,3747,Metals
+55524,P-14,7160,Goods
+63271,I-16,3249,Machinery
+84970,I-16,2202,Raw Minerals
+74566,C-16,3614,Goods
+88184,N-10,8147,Agricultural
+93054,K-15,1133,Chemicals
+75214,O-16,5177,Machinery
+96910,G-20,7622,Forestry
+75318,G-18,3613,Machinery
+57022,E-19,4865,Machinery
+83792,E-17,2912,Oil
+62455,K-16,6298,Goods
+50047,D-20,3025,Automobiles
+68147,P-15,9556,Agricultural
+75693,F-20,5804,Food
+53537,I-17,9020,Metals
+52605,J-19,2550,Agricultural
+80182,E-18,8223,Metals
+60899,K-18,6452,Goods
+60651,G-16,2063,Food
+83779,G-13,6430,Livestock
+61447,J-10,3044,Machinery
+83752,L-20,2601,Electronics
+57361,K-14,3211,Oil
+95055,F-18,1775,Automobiles
+84211,F-18,8575,Building Materials
+66285,K-13,9209,Raw Minerals
+69268,E-15,8683,Machinery
+50302,P-18,8513,Metals
+59849,F-18,4771,Goods
+68043,B-14,9655,Metals
+53363,C-11,7983,Raw Minerals
+97094,E-19,1213,Metals
+90590,I-10,6438,Goods
+83990,L-16,3517,Machinery
+82831,O-15,9239,Forestry
+61308,C-14,1434,Electronics
+57057,D-17,1740,Automobiles
+90841,K-18,2467,Livestock
+69462,M-15,6766,Chemicals
+84591,F-11,6831,Building Materials
+68431,P-11,1651,Food
+73939,K-13,3407,Raw Minerals
+98152,P-16,7965,Electronics
+78292,A-14,8006,Raw Minerals
+77850,J-15,1026,Intermodal Containers
+79779,G-14,7743,Oil
+83446,M-11,6634,Electronics
+91825,K-17,4735,Automobiles
+79446,F-13,8802,Electronics
+77799,A-16,8721,Forestry
+59747,L-14,1701,Goods
+69110,F-19,9943,Intermodal Containers
+67862,C-14,3119,Chemicals
+98050,K-19,2222,Automobiles
+94270,G-19,6023,Livestock
+70942,F-16,8545,Food
+87177,N-15,4680,Automobiles
+69963,B-17,7592,Intermodal Containers
+60781,M-18,2705,Chemicals
+89593,N-20,4646,Livestock
+54085,H-20,9658,Raw Minerals
+58407,A-16,4133,Oil
+77557,P-10,2614,Chemicals
+72570,A-16,9480,Livestock
+74222,J-10,7982,Machinery
+72588,A-12,2464,Electronics
+86736,O-19,9065,Goods
+57209,C-18,6007,Forestry
+78011,P-17,4248,Food
+57165,J-18,4285,Raw Minerals
+59877,L-17,7132,Agricultural
+92579,L-15,7433,Electronics
+88712,B-15,4412,Forestry
+69309,O-15,5942,Agricultural
+56722,O-20,1527,Electronics
+86286,I-14,7045,Electronics
+79508,G-14,5305,Agricultural
+54760,G-15,4284,Chemicals
+56397,N-18,1987,Chemicals
+53982,F-11,4335,Metals
+50621,I-19,6323,Electronics
+85948,I-19,9440,Chemicals
+96850,B-11,2880,Livestock
+88114,A-13,1828,Raw Minerals
+66921,N-17,4906,Electronics
+54406,O-10,6747,Forestry
+93073,O-16,6199,Forestry
+74321,C-12,3597,Chemicals
+71309,N-11,8685,Forestry
+50779,B-18,4353,Oil
+73105,I-13,2275,Goods
+69312,B-10,9143,Livestock
+96924,C-16,7152,Metals
+98199,E-13,3352,Chemicals
+95685,I-14,4325,Forestry
+95903,H-18,6926,Intermodal Containers
+62940,E-13,9239,Livestock
+91857,P-15,4094,Oil
+76809,J-10,7648,Building Materials
+85313,D-17,9321,Agricultural
+50228,J-15,2709,Raw Minerals
+80077,A-18,5586,Raw Minerals
+54666,F-11,4818,Goods
+77817,G-14,2390,Forestry
+57938,K-13,1666,Building Materials
+61730,D-11,7724,Livestock
+74899,J-14,8503,Forestry
+98006,E-14,3169,Agricultural
+52196,K-14,6606,Electronics
+73852,M-13,2378,Machinery
+96351,G-10,3482,Forestry
+60481,J-19,8670,Automobiles
+87411,O-12,3532,Raw Minerals
+84746,F-19,9378,Building Materials
+79427,G-12,8893,Agricultural
+57436,H-15,5878,Automobiles
+81991,C-10,8363,Livestock
+60845,I-18,5412,Machinery
+98899,D-14,5545,Automobiles
+78629,C-12,4744,Electronics
+83434,L-18,4550,Electronics
+92027,I-11,5860,Automobiles
+79760,F-14,1029,Livestock
+55967,A-17,7146,Machinery
+79238,H-16,4269,Oil
+74118,J-14,8931,Building Materials
+83529,K-20,4067,Machinery
+60838,E-11,1075,Automobiles
+59268,H-16,1477,Machinery
+66006,K-17,5207,Intermodal Containers
+50323,L-16,2134,Goods
+74257,L-14,1894,Livestock
+66521,C-16,5048,Food
+60624,N-14,8959,Food
+97985,K-10,1165,Oil
+96492,A-16,7870,Agricultural
+96488,N-10,2899,Raw Minerals
+95873,E-17,4142,Metals
+90979,D-18,6826,Forestry
+74626,L-12,1542,Intermodal Containers
+77401,A-18,3706,Machinery
+70494,L-13,2759,Agricultural
+63977,N-19,4735,Chemicals
+65801,G-11,1305,Metals
+77192,L-17,3336,Chemicals
+58130,K-13,1110,Agricultural
+89839,E-19,5625,Building Materials
+76897,H-16,5573,Food
+64653,A-14,2995,Metals
+76091,J-17,3921,Livestock
+67262,G-13,7655,Chemicals
+67898,H-10,3160,Chemicals
+53204,I-15,3095,Intermodal Containers
+89330,E-10,6366,Machinery
+82743,G-11,4693,Goods
+88690,C-17,5416,Raw Minerals
+82599,F-11,8476,Chemicals
+98636,B-12,7307,Oil
+72736,G-18,6032,Goods
+70891,N-19,5179,Food
+50251,L-10,2512,Livestock
+92867,M-17,2372,Oil
+93980,O-10,1739,Goods
+73440,K-19,9524,Agricultural
+75757,G-13,1482,Building Materials
+99351,C-17,3012,Food
+61818,O-10,3538,Goods
+59146,B-10,9321,Chemicals
+50713,J-17,2707,Forestry
+79309,C-18,9833,Goods
+55487,O-20,6374,Food
+86192,E-12,5308,Livestock
+78829,J-12,1898,Oil
+86395,J-20,7961,Electronics
+77329,F-10,1460,Metals
+90762,H-17,8946,Intermodal Containers
+64357,B-13,9320,Building Materials
+53015,O-15,6291,Oil
+87506,F-15,2387,Agricultural
+61505,K-15,5319,Forestry
+91204,F-15,6746,Livestock
+53576,H-19,7071,Intermodal Containers
+56289,L-18,5605,Automobiles
+71645,G-16,8092,Food
+81615,O-15,9827,Goods
+75273,E-18,5931,Oil
+50989,K-13,8338,Building Materials
+94585,P-18,8825,Building Materials
+61656,A-12,1062,Automobiles
+83103,F-14,3930,Intermodal Containers
+85378,J-10,4121,Forestry
+85685,O-16,9534,Raw Minerals
+99845,I-12,8763,Forestry
+63767,K-15,6548,Food
+87236,K-11,6162,Agricultural
+99066,G-15,7370,Livestock
+68551,L-14,2553,Metals
+56115,K-13,6496,Food
+51666,D-10,6633,Metals
+82704,D-19,1311,Electronics
+66925,C-18,6297,Food
+70325,E-11,9751,Machinery
+88121,B-16,2566,Chemicals
+51885,D-19,3481,Oil
+65425,I-13,7213,Forestry
+60732,O-10,8702,Agricultural
+56022,P-19,3257,Goods
+59900,O-10,1247,Raw Minerals
+92543,O-10,1242,Electronics
+57374,F-20,3784,Goods
+73633,M-14,6297,Metals
+97492,G-12,3150,Raw Minerals
+74289,A-10,5866,Forestry
+68134,C-10,8587,Machinery
+68932,K-13,7249,Livestock
+84703,N-18,9611,Metals
+92111,O-14,2440,Agricultural
+78488,G-11,4645,Machinery
+94833,E-17,4447,Intermodal Containers
+68282,P-20,1874,Building Materials
+57089,I-19,9928,Building Materials
+69526,E-19,9444,Forestry
+92941,A-14,4545,Chemicals
+74438,L-16,2722,Food
+66362,E-17,1072,Automobiles
+74148,B-19,6318,Building Materials
+97627,O-19,4727,Automobiles
+93676,B-20,7310,Livestock
+63467,J-13,7300,Raw Minerals
+66428,A-20,2257,Chemicals
+92283,B-12,8167,Building Materials
+80275,O-13,8141,Intermodal Containers
+56696,L-16,1659,Metals
+75688,F-20,8281,Chemicals
+84267,D-20,7009,Metals
+98548,I-13,2473,Chemicals
+56654,H-12,8483,Forestry
+96174,E-10,9156,Metals
+59159,A-14,6471,Chemicals
+74621,N-12,2671,Chemicals
+66392,A-14,7148,Raw Minerals
+84594,E-17,4329,Livestock
+69612,K-17,8253,Chemicals
+82746,F-20,4864,Forestry
+66791,C-13,9364,Machinery
+90939,N-14,2036,Forestry
+94868,P-12,7250,Automobiles
+61040,I-12,2168,Electronics
+72127,J-13,7555,Raw Minerals
+88647,G-16,1193,Oil
+95402,A-14,7644,Oil
+98820,I-14,4519,Forestry
+75185,E-15,7447,Forestry
+79246,F-15,1602,Forestry
+52345,G-19,7216,Machinery
+99381,C-12,3933,Metals
+56646,J-11,4163,Electronics
+59291,A-16,5990,Machinery
+73845,I-17,7063,Chemicals
+88330,M-10,2781,Livestock
+58879,D-17,4565,Agricultural
+75117,A-14,6384,Livestock
+64850,K-13,4458,Food
+81674,K-17,1943,Metals
+73484,K-17,7408,Oil
+63041,E-11,9164,Food
+54075,J-12,3181,Food
+90465,E-15,8093,Automobiles
+61261,N-15,2321,Metals
+72011,E-14,9631,Agricultural
+52314,E-15,7701,Intermodal Containers
+72974,H-14,1917,Agricultural
+58252,L-10,1196,Oil
+83687,J-13,6152,Forestry
+89743,K-16,9501,Food
+65334,F-16,8143,Raw Minerals
+68605,H-10,5838,Chemicals
+70472,N-12,6071,Livestock
+65833,P-17,8904,Food
+97765,M-12,3605,Intermodal Containers
+68142,N-19,9706,Metals
+67036,C-15,3717,Metals
+75555,L-12,9173,Intermodal Containers
+83574,B-12,6739,Intermodal Containers
+82323,K-17,1342,Machinery
+93220,N-15,1916,Forestry
+63699,G-17,4206,Oil
+68633,H-19,9041,Oil
+61708,B-15,3937,Agricultural
+94036,L-17,9909,Building Materials
+79461,I-20,9455,Machinery
+68033,O-16,7527,Raw Minerals
+82058,E-12,9570,Metals
+58291,D-13,3863,Goods
+61839,G-15,8081,Raw Minerals
+52493,F-18,8189,Forestry
+94615,I-19,8416,Building Materials
+97876,P-19,2217,Electronics
+84775,O-20,5574,Intermodal Containers
+96907,C-20,5691,Oil
+70782,C-18,9190,Electronics
+76477,I-11,5141,Food
+83176,P-14,9145,Goods
+62906,G-16,7215,Building Materials
+57729,M-20,5800,Chemicals
+89620,K-18,5703,Agricultural
+60548,A-18,4453,Machinery
+88519,B-12,5033,Food
+72571,F-12,7208,Goods
+73048,F-11,1061,Agricultural
+93929,N-16,3183,Agricultural
+84652,M-12,4200,Raw Minerals
+76995,M-11,3334,Agricultural
+66569,N-11,5351,Raw Minerals
+89399,G-20,5499,Livestock
+97253,P-12,5301,Automobiles
+62780,A-16,5702,Oil
+63497,L-10,6145,Livestock
+60935,P-19,1469,Intermodal Containers
+75276,E-19,3096,Building Materials
+77797,K-10,4295,Automobiles
+74366,L-16,9701,Livestock
+78206,D-11,7774,Building Materials
+65767,B-17,4007,Metals
+62411,D-13,2385,Raw Minerals
+65615,B-18,1245,Livestock
+90973,M-12,7156,Intermodal Containers
+71119,J-16,9251,Livestock
+79599,N-20,6748,Metals
+80285,B-15,8246,Goods
+87660,J-16,6039,Goods
+71261,I-19,1318,Raw Minerals
+83704,E-11,5413,Machinery
+79641,L-12,4879,Automobiles
+97901,D-13,3222,Automobiles
+88054,H-14,2275,Automobiles
+80159,K-16,6226,Automobiles
+65564,A-10,2136,Raw Minerals
+66912,C-19,7749,Chemicals
+63312,B-14,2846,Food
+69819,H-15,8842,Electronics
+96221,A-14,5633,Electronics
+63386,J-19,3961,Electronics
+58655,G-13,3524,Intermodal Containers
+97777,C-18,4847,Intermodal Containers
+68661,K-12,9913,Oil
+71385,M-13,6618,Machinery
+91337,I-15,8628,Automobiles
+63350,O-13,8128,Building Materials
+57353,G-13,8416,Machinery
+89818,H-10,2008,Goods
+65566,I-10,4252,Goods
+95666,N-10,6362,Oil
+83092,G-16,2279,Oil
+91919,K-13,8511,Goods
+76008,F-10,4080,Agricultural
+55016,I-11,1289,Chemicals
+79619,G-20,7593,Agricultural
+76828,E-20,3286,Intermodal Containers
+79539,K-13,5775,Agricultural
+73788,K-17,5216,Agricultural
+64815,M-16,2692,Forestry
+92618,E-19,1672,Chemicals
+89418,B-16,4069,Chemicals
+92006,K-11,1645,Automobiles
+92303,G-16,6171,Intermodal Containers
+98489,M-17,6585,Oil
+68973,J-13,4671,Forestry
+60209,B-15,2772,Agricultural
+53355,L-18,1512,Intermodal Containers
+77328,G-11,4323,Metals
+85641,H-16,4648,Raw Minerals
+88273,C-19,7696,Livestock
+57803,B-12,4512,Goods
+59935,I-17,4390,Agricultural
+93229,G-10,8529,Machinery
+62965,M-11,4803,Raw Minerals
+92753,E-18,2647,Automobiles
+75289,J-13,6075,Agricultural
+65997,P-18,8084,Metals
+50020,G-18,7035,Electronics
+68290,G-15,9590,Machinery
+55256,H-13,6900,Intermodal Containers
+86696,B-15,7078,Electronics
+83256,O-19,5032,Metals
+62901,M-19,8968,Building Materials
+81801,P-11,6844,Raw Minerals
+79531,I-16,6645,Building Materials
+67044,J-19,9734,Goods
+91479,O-12,2177,Agricultural
+77805,D-11,8209,Forestry
+96821,P-16,5759,Food
+51779,I-16,1950,Metals
+64855,F-10,4341,Metals
+70634,K-13,6952,Electronics
+81667,K-13,4723,Goods
+89142,B-13,6254,Chemicals
+60500,I-12,9965,Forestry
+66606,A-16,3989,Livestock
+94498,E-15,4308,Oil
+70392,P-16,7125,Livestock
+99856,L-10,2680,Automobiles
+82849,I-15,1071,Food
+54555,E-10,6307,Oil
+84482,D-16,1301,Goods
+68180,M-10,1499,Agricultural
+85140,C-18,8288,Machinery
+83590,I-13,5222,Goods
+94301,E-14,3372,Agricultural
+51067,M-20,1726,Machinery
+53226,B-18,8991,Chemicals
+63888,G-18,2584,Electronics
+75903,M-16,9098,Automobiles
+91854,E-12,6836,Chemicals
+53799,P-14,5015,Electronics
+87821,P-17,9097,Oil
+54035,D-15,3833,Metals
+87512,E-16,8008,Oil
+65392,N-19,3491,Goods
+92067,P-12,8770,Agricultural
+70517,E-16,8952,Agricultural
+57182,F-15,3357,Oil
+68157,K-13,7384,Metals
+70202,H-13,5310,Oil
+98333,M-10,2650,Automobiles
+61614,G-16,7872,Forestry
+66254,H-20,5251,Building Materials
+91568,M-13,3595,Chemicals
+82741,G-19,5754,Food
+66512,H-18,1813,Agricultural
+79963,L-19,2491,Intermodal Containers
+82454,A-11,5942,Agricultural
+95291,P-17,8641,Agricultural
+95846,B-11,5450,Chemicals
+54118,P-18,8769,Oil
+76137,J-15,2528,Metals
+58504,N-13,1065,Automobiles
+94589,K-19,2796,Livestock
+71234,N-18,2420,Chemicals
+62636,C-19,9730,Agricultural
+59886,O-18,1391,Goods
+67018,B-10,4589,Electronics
+89829,K-19,6056,Raw Minerals
+52591,C-10,4862,Raw Minerals
+91842,J-13,2555,Metals
+91624,J-14,9060,Oil
+94829,M-11,8053,Livestock
+77876,N-16,2988,Metals
+73154,A-10,3087,Goods
+78136,F-10,2446,Food
+53008,D-11,2127,Goods
+72906,F-14,3970,Chemicals
+66764,L-15,5787,Forestry
+64465,E-10,3225,Automobiles
+60173,F-11,4404,Metals
+79651,J-20,4456,Chemicals
+57139,A-20,3036,Raw Minerals
+78961,I-19,2693,Food
+68884,M-11,5871,Livestock
+73084,O-11,1727,Oil
+53093,B-11,4429,Raw Minerals
+65277,A-16,2970,Forestry
+97252,D-10,3803,Machinery
+96278,L-12,8336,Metals
+63335,H-19,6021,Intermodal Containers
+57252,M-20,7202,Automobiles
+95369,C-10,4712,Electronics
+79353,P-12,4024,Intermodal Containers
+77798,H-20,5165,Intermodal Containers
+52015,A-14,6616,Automobiles
+97360,G-19,6621,Agricultural
+69069,M-10,5674,Agricultural
+91636,E-19,6099,Goods
+74654,O-19,6941,Electronics
+75176,I-15,5557,Goods
+67492,P-20,7725,Raw Minerals
+98218,C-14,2664,Building Materials
+78339,A-19,9634,Livestock
+59435,H-10,4949,Livestock
+98876,I-20,7574,Raw Minerals
+93996,M-18,2714,Goods
+79101,A-11,4971,Oil
+88485,N-11,4393,Raw Minerals
+96705,B-10,2086,Electronics
+55414,E-13,3269,Machinery
+50521,P-12,1547,Livestock
+80781,D-13,4640,Chemicals
+86360,L-15,9683,Intermodal Containers
+75438,F-15,4486,Building Materials
+74114,A-16,7885,Goods
+75588,E-16,3471,Machinery
+75474,O-16,6050,Food
+55515,O-15,6306,Oil
+57505,M-20,3664,Agricultural
+71803,B-14,6804,Raw Minerals
+65326,O-10,4523,Metals
+78827,P-20,7181,Goods
+79804,E-18,9491,Raw Minerals
+85731,C-17,6643,Forestry
+50343,J-15,7508,Food
+64702,M-18,9656,Raw Minerals
+81495,E-17,5830,Automobiles
+90312,C-16,8375,Chemicals
+89910,O-11,1196,Oil
+88909,L-13,2312,Intermodal Containers
+83490,E-14,9144,Raw Minerals
+82496,I-15,6711,Oil
+67304,I-15,5309,Chemicals
+75454,A-16,5078,Food
+71328,E-15,3724,Building Materials
+81720,B-18,9147,Automobiles
+65545,G-13,7339,Chemicals
+72353,G-16,5357,Building Materials
+53122,C-15,5770,Oil
+51116,N-15,7534,Forestry
+76452,J-16,3808,Metals
+81830,K-10,8154,Raw Minerals
+77260,G-19,9924,Agricultural
+96500,F-19,2299,Metals
+99565,P-18,2506,Chemicals
+93876,D-11,8937,Intermodal Containers
+76439,I-17,7023,Building Materials
+53152,M-12,7652,Oil
+64579,N-19,5937,Raw Minerals
+78674,N-13,7942,Electronics
+75955,C-13,2268,Building Materials
+67616,A-12,8233,Livestock
+97908,C-10,1377,Chemicals
+61766,D-15,5382,Automobiles
+52010,F-14,2529,Building Materials
+89067,G-15,9587,Chemicals
+94673,M-15,5070,Forestry
+77969,E-15,3661,Electronics
+89095,G-15,4124,Forestry
+84197,J-10,8441,Food
+56235,K-15,5676,Goods
+70138,F-20,2368,Metals
+95486,M-12,3124,Livestock
+64099,G-18,2879,Goods
+52384,D-16,1652,Raw Minerals
+70123,A-10,6395,Livestock
+81821,M-11,2266,Electronics
+78375,H-12,8049,Food
+91365,G-10,7788,Intermodal Containers
+86055,M-17,9385,Agricultural
+72017,P-17,5296,Automobiles
+73538,G-16,8333,Electronics
+66384,C-11,3364,Agricultural
+57406,N-17,6233,Goods
+58057,K-14,1766,Oil
+86213,H-12,5512,Livestock
+54830,D-11,4239,Goods
+65847,M-18,3439,Automobiles
+66416,H-13,2447,Electronics
+72357,K-11,8647,Agricultural
+94240,B-20,9203,Livestock
+58180,I-11,9083,Goods
+56464,L-10,3190,Building Materials
+94269,M-20,2214,Machinery
+87708,N-10,4597,Forestry
+94629,G-19,6275,Forestry
+56135,J-14,4023,Machinery
+78355,I-19,4200,Goods
+98894,F-17,4692,Machinery
+61451,P-17,8546,Electronics
+75770,H-20,6974,Oil
+59722,A-16,3969,Forestry
+63902,C-14,4715,Electronics
+81483,N-13,2794,Livestock
+97612,P-18,7873,Chemicals
+87058,K-18,7094,Building Materials
+68754,C-15,1691,Chemicals
+99751,K-18,2251,Oil
+62344,G-12,1649,Machinery
+65113,A-16,1849,Oil
+56923,D-20,7454,Food
+50440,G-19,3314,Machinery
+71379,J-12,9251,Electronics
+81627,J-20,7920,Goods
+88780,A-11,8302,Food
+68626,K-20,4377,Livestock
+99264,O-12,4044,Forestry
+79181,O-15,7348,Building Materials
+93358,K-10,4117,Agricultural
+89599,B-13,9940,Building Materials
+61597,D-12,3757,Goods
+56334,H-19,6419,Goods
+57688,A-12,1578,Forestry
+81939,M-13,1796,Forestry
+83069,E-13,4642,Forestry
+91139,N-19,8015,Livestock
+53936,D-15,5100,Intermodal Containers
+77853,B-12,5244,Goods
+98923,H-12,6351,Automobiles
+50990,J-10,2291,Raw Minerals
+97237,P-19,2411,Food
+69472,L-15,4626,Forestry
+63194,A-19,2942,Chemicals
+74425,M-19,2084,Food
+60257,E-13,6423,Food
+50233,I-13,1903,Automobiles
+52736,K-14,8621,Raw Minerals
+63028,F-10,8229,Forestry
+98148,N-11,4414,Chemicals
+51697,D-10,7758,Goods
+86648,O-18,8163,Intermodal Containers
+87409,D-14,2854,Oil
+84352,M-19,8044,Goods
+67952,L-15,6896,Food
+88572,A-17,2633,Goods
+55270,N-13,7345,Electronics
+54698,J-20,1681,Automobiles
+65018,D-15,8510,Building Materials
+68149,A-15,8188,Oil
+76138,F-20,2794,Automobiles
+54479,O-19,8033,Livestock
+64687,D-19,4424,Food
+96120,K-14,3025,Building Materials
+65274,P-20,9813,Oil
+67782,O-11,3050,Building Materials
+68614,O-20,3355,Livestock
+88234,O-19,3778,Automobiles
+50147,J-16,7210,Electronics
+65822,P-11,5682,Forestry
+97877,B-19,2820,Chemicals
+62360,H-19,7462,Agricultural
+58445,L-20,6031,Forestry
+50360,I-16,1428,Machinery
+77983,D-20,3141,Chemicals
+99353,D-16,1314,Machinery
+51840,D-20,6332,Machinery
+69027,G-20,5838,Chemicals
+71721,M-12,9859,Agricultural
+71527,G-12,3378,Food
+59401,H-17,8921,Goods
+89656,G-20,4763,Food
+58616,L-16,7988,Intermodal Containers
+90095,H-11,8008,Automobiles
+96923,L-11,8214,Oil
+74040,F-14,1369,Goods
+98412,K-18,8716,Building Materials
+59157,I-16,3192,Food
+92584,H-14,4087,Automobiles
+89938,P-15,3760,Chemicals
+80088,J-18,5544,Food
+79991,J-17,5049,Automobiles
+91236,J-11,5669,Chemicals
+95449,G-16,7302,Oil
+94184,N-17,5766,Building Materials
+81105,A-17,9071,Chemicals
+64782,A-10,3676,Forestry
+87682,A-13,9329,Agricultural
+88524,O-11,3822,Metals
+74305,N-20,4979,Intermodal Containers
+74990,N-11,7925,Livestock
+52651,G-19,6040,Oil
+64936,P-13,7503,Chemicals
+95107,C-18,1375,Automobiles
+77504,M-13,3133,Automobiles
+56308,N-15,4510,Forestry
+79055,L-12,3455,Metals
+94607,J-10,3364,Metals
+98230,C-17,1401,Metals
+96487,I-16,8381,Oil
+81645,L-16,7575,Metals
+70390,J-12,5767,Agricultural
+71186,P-11,7158,Intermodal Containers
+54913,D-14,4504,Electronics
+84770,H-10,8978,Metals
+51389,B-13,8701,Building Materials
+96440,G-16,9213,Agricultural
+53392,K-18,1393,Building Materials
+54615,N-12,5546,Building Materials
+81828,C-18,1405,Intermodal Containers
+50447,L-19,8540,Agricultural
+86562,N-17,7803,Raw Minerals
+73206,L-16,4422,Machinery
+50592,D-18,4043,Food
+85638,M-17,7227,Intermodal Containers
+66181,A-19,2600,Raw Minerals
+94011,I-15,1823,Intermodal Containers
+85695,I-12,7123,Agricultural
+81497,J-13,2247,Building Materials
+50098,G-19,1211,Chemicals
+82985,M-13,8300,Goods
+72348,E-19,8968,Building Materials
+67171,B-18,8689,Agricultural
+79228,H-16,9596,Livestock
+63564,E-18,6451,Raw Minerals
+51267,M-17,1464,Building Materials
+70235,B-12,8020,Agricultural
+98937,K-18,1326,Electronics
+64378,A-11,6640,Intermodal Containers
+51845,C-15,3037,Intermodal Containers
+55222,E-15,1117,Metals
+59543,M-13,4567,Chemicals
+92107,C-12,2193,Chemicals
+91478,B-19,5204,Agricultural
+56741,N-10,2493,Agricultural
+84497,C-17,6833,Building Materials
+54819,P-17,5704,Metals
+86460,C-14,7121,Automobiles
+80257,D-17,2900,Livestock
+61111,J-20,9531,Intermodal Containers
+76900,J-16,6958,Building Materials
+88516,K-11,8257,Automobiles
+96266,A-11,8207,Oil
+92137,H-18,4235,Raw Minerals
+80658,F-10,2988,Chemicals
+82195,E-13,8400,Metals
+62613,N-20,7496,Forestry
+95771,H-20,2835,Building Materials
+72872,H-10,4151,Electronics
+97400,N-20,1431,Metals
+78551,E-10,8510,Oil
+73928,I-19,7104,Electronics
+70252,E-10,6425,Raw Minerals
+69638,F-18,5689,Automobiles
+80264,D-17,6847,Agricultural
+89427,K-16,3073,Raw Minerals
+59873,I-19,6956,Machinery
+68349,P-20,9090,Metals
+55755,I-12,5749,Goods
+98933,N-20,6470,Intermodal Containers
+80289,A-18,9232,Chemicals
+78479,P-18,8739,Metals
+56109,K-19,4544,Agricultural
+76762,J-15,4062,Agricultural
+80796,L-16,1348,Food
+78014,D-13,1979,Chemicals
+81440,C-20,8601,Raw Minerals
+61095,L-12,7675,Agricultural
+72002,G-20,5515,Building Materials
+51135,B-12,9022,Machinery
+83511,F-17,6199,Oil
+91454,B-10,8537,Agricultural
+84807,C-16,2321,Metals
+80116,E-19,7531,Goods
+88171,O-11,2884,Raw Minerals
+85911,L-18,1706,Forestry
+99725,E-13,7523,Automobiles
+81185,B-15,7557,Agricultural
+69606,G-19,7691,Forestry
+50013,I-19,7273,Building Materials
+53587,L-10,5532,Metals
+75622,I-14,4525,Electronics
+80924,N-14,2093,Oil
+64843,E-20,8389,Chemicals
+83571,L-20,7533,Intermodal Containers
+52365,I-13,6734,Intermodal Containers
+75877,C-10,8080,Forestry
+93772,P-14,2313,Food
+80676,O-15,1404,Agricultural
+77784,L-11,8487,Agricultural
+82273,K-17,2796,Goods
+86436,J-16,5515,Livestock
+75110,J-17,8949,Metals
+93435,A-15,1415,Chemicals
+74436,G-14,7487,Livestock
+79803,M-11,8073,Food
+94358,B-17,7102,Intermodal Containers
+89217,M-14,5039,Forestry
+95409,O-19,8182,Intermodal Containers
+73602,P-19,5635,Chemicals
+57409,G-11,9172,Goods
+74370,J-10,1885,Metals
+67970,O-12,8215,Livestock
+50462,I-11,2133,Automobiles
+82611,L-17,1920,Livestock
+58389,F-11,2112,Automobiles
+60985,P-19,8816,Chemicals
+78578,A-12,1714,Food
+57501,P-14,9883,Building Materials
+70628,B-14,5890,Chemicals
+81040,A-14,9469,Machinery
+84943,N-10,2109,Oil
+81725,O-17,5710,Raw Minerals
+99568,B-17,3704,Agricultural
+81646,I-12,7815,Raw Minerals
+86967,B-18,7186,Goods
+71089,B-19,4072,Metals
+99262,B-14,8902,Automobiles
+66884,P-16,4953,Metals
+54375,I-16,5120,Oil
+90446,A-11,2984,Chemicals
+89641,D-14,6787,Intermodal Containers
+99233,O-11,7749,Food
+81080,D-12,1380,Chemicals
+72263,H-13,2330,Machinery
+80498,B-13,4149,Machinery
+62145,M-10,8629,Goods
+71129,M-13,9472,Goods
+54181,K-11,2869,Chemicals
+57528,D-10,3717,Goods
+82421,F-11,3659,Machinery
+89903,M-15,1301,Automobiles
+75578,A-14,5306,Goods
+81273,P-16,7970,Electronics
+59642,I-10,1045,Agricultural
+61939,J-17,1833,Agricultural
+57726,H-15,8317,Oil
+66364,F-12,3452,Automobiles
+72783,I-20,2460,Intermodal Containers
+60167,L-17,9595,Electronics
+68556,P-11,3333,Oil
+60311,B-13,9412,Oil
+68836,L-12,4575,Chemicals
+98656,K-12,5823,Automobiles
+82386,D-14,1466,Forestry
+76602,B-19,5195,Building Materials
+63714,L-13,5890,Goods
+73415,N-19,4020,Building Materials
+98906,E-11,2305,Building Materials
+56181,G-12,1773,Machinery
+77304,N-11,6990,Raw Minerals
+61876,P-11,3997,Livestock
+50106,B-16,6598,Raw Minerals
+71544,O-13,4326,Chemicals
+99199,M-19,9150,Electronics
+83769,E-16,3060,Chemicals
+82165,G-17,1531,Goods
+68331,P-19,4650,Food
+88883,N-16,1991,Oil
+87647,B-18,2691,Chemicals
+79648,G-15,8637,Raw Minerals
+90526,D-18,9507,Oil
+67731,C-18,6467,Machinery
+95515,N-17,2440,Building Materials
+68420,F-18,5721,Intermodal Containers
+94261,G-10,6976,Machinery
+98172,H-15,8644,Goods
+75344,D-14,4358,Electronics
+65295,M-16,9968,Raw Minerals
+91356,G-17,8085,Building Materials
+80021,O-12,2955,Electronics
+63260,K-17,4839,Machinery
+76845,C-14,5984,Machinery
+84253,B-15,7716,Livestock
+51706,H-19,1248,Oil
+85260,I-20,5131,Goods
+91021,E-12,5934,Livestock
+71618,K-14,8799,Automobiles
+74744,D-16,8988,Forestry
+79888,C-17,3592,Raw Minerals
+63797,F-16,3767,Intermodal Containers
+81712,F-15,3263,Oil
+83837,D-11,2490,Chemicals
+52825,K-18,1595,Automobiles
+87356,J-16,5401,Raw Minerals
+75023,O-20,3221,Machinery
+83251,I-18,1883,Oil
+57759,M-11,8619,Building Materials
+55187,N-17,2150,Electronics
+97066,L-10,1131,Chemicals
+90733,C-14,9192,Machinery
+60166,B-20,2915,Machinery
+83881,J-12,3953,Automobiles
+71725,I-11,9264,Agricultural
+89619,C-12,5512,Intermodal Containers
+58766,N-16,8416,Food
+65368,K-15,9189,Food
+99003,O-11,2061,Machinery
+58822,H-11,5585,Food
+96246,O-11,3357,Forestry
+70590,C-11,7574,Automobiles
+94296,I-17,6019,Building Materials
+84884,L-19,6301,Livestock
+51250,L-11,5983,Forestry
+62401,G-15,5344,Livestock
+55385,K-20,9468,Metals
+75433,J-17,6514,Goods
+72441,B-15,2638,Electronics
+65196,P-14,3447,Agricultural
+95260,F-13,4242,Building Materials
+79624,L-12,4205,Goods
+93878,N-17,3893,Goods
+97809,K-19,4819,Raw Minerals
+93801,D-13,5299,Machinery
+53516,J-11,5657,Building Materials
+55004,O-13,7076,Oil
+54044,J-14,4484,Electronics
+64419,K-12,8439,Automobiles
+61158,H-19,4743,Electronics
+86575,C-13,4517,Chemicals
+88687,O-17,1999,Machinery
+93234,N-16,7238,Raw Minerals
+54991,D-12,8003,Food
+86579,E-20,6919,Machinery
+83383,D-18,3857,Automobiles
+79943,I-17,2279,Chemicals
+58487,E-18,9352,Livestock
+81531,P-19,1688,Raw Minerals
+92885,K-18,5974,Raw Minerals
+86571,F-16,6433,Intermodal Containers
+79974,D-17,3343,Goods
+64200,K-15,1283,Intermodal Containers
+56968,A-20,1932,Agricultural
+55153,P-20,4390,Electronics
+59355,G-11,3726,Chemicals
+56373,J-14,3111,Oil
+69277,B-20,7551,Raw Minerals
+78903,O-10,6952,Chemicals
+68841,F-17,3609,Food
+75853,O-18,3237,Raw Minerals
+61408,K-18,2516,Livestock
+88730,P-10,7060,Raw Minerals
+93021,H-13,7440,Agricultural
+90586,E-10,5187,Food
+93754,E-14,8906,Chemicals
+84429,G-18,4305,Agricultural
+79042,O-20,2280,Agricultural
+67817,I-19,6204,Electronics
+97671,F-20,9106,Goods
+95872,G-17,9319,Oil
+82576,G-19,8654,Chemicals
+79847,E-15,8967,Building Materials
+93458,A-10,7286,Intermodal Containers
+64731,P-16,7565,Intermodal Containers
+84812,B-11,1957,Intermodal Containers
+64983,F-16,5917,Chemicals
+99398,I-12,2843,Building Materials
+73652,H-18,1743,Food
+53451,C-16,9256,Chemicals
+80246,G-14,4912,Metals
+75072,J-15,4567,Intermodal Containers
+55311,B-12,8555,Electronics
+97902,K-14,3409,Oil
+77418,A-18,5848,Raw Minerals
+57368,H-19,7408,Food
+72910,O-10,9102,Automobiles
+99226,H-15,7769,Building Materials
+73066,G-19,5821,Intermodal Containers
+52233,P-15,6789,Agricultural
+77669,H-19,2150,Forestry
+60161,D-19,9635,Forestry
+50800,B-18,2397,Raw Minerals
+88239,E-17,6522,Goods
+61165,H-12,1004,Intermodal Containers
+87314,M-15,2715,Livestock
+94017,N-13,1738,Forestry
+63944,B-16,1556,Oil
+54184,E-17,2894,Raw Minerals
+52746,L-13,7676,Electronics
+52970,F-12,1357,Raw Minerals
+90800,F-14,3302,Food
+80392,I-10,3759,Forestry
+88206,P-12,6751,Building Materials
+70825,L-17,7506,Electronics
+50285,I-20,3919,Goods
+51664,H-17,9663,Intermodal Containers
+65987,L-11,8985,Electronics
+79114,I-14,6293,Intermodal Containers
+54073,G-11,3320,Food
+58045,C-10,3664,Automobiles
+87045,C-14,5423,Building Materials
+83706,K-11,7555,Metals
+94989,J-16,2955,Machinery
+93148,N-17,4788,Chemicals
+86606,E-13,3785,Oil
+96043,K-13,6720,Intermodal Containers
+83857,M-19,1069,Raw Minerals
+61806,C-20,8998,Electronics
+50475,N-14,1292,Intermodal Containers
+98693,B-13,8392,Food
+57075,P-12,9309,Machinery
+66442,K-17,7461,Food
+80320,O-10,9155,Oil
+90820,B-11,9083,Chemicals
+73385,E-19,3514,Goods
+95564,M-18,3442,Electronics
+87503,C-18,3608,Oil
+95526,K-20,5840,Intermodal Containers
+56921,A-19,5223,Food
+51758,E-20,7239,Livestock
+70079,L-12,8364,Electronics
+55012,I-14,2988,Chemicals
+76640,J-10,7695,Oil
+59305,O-17,1609,Forestry
+98205,K-11,7279,Intermodal Containers
+54026,G-11,1608,Livestock
+83060,N-11,8803,Agricultural
+98395,I-12,3729,Metals
+86488,M-11,6718,Intermodal Containers
+64437,B-11,3197,Electronics
+96610,H-19,4133,Raw Minerals
+92845,J-11,5756,Electronics
+62852,K-12,5838,Livestock
+69452,O-15,8969,Automobiles
+64710,G-16,9036,Chemicals
+98591,K-12,1800,Metals
+90585,O-10,7111,Livestock
+62916,H-16,6125,Chemicals
+72594,K-16,4356,Machinery
+91583,P-13,6487,Food
+55943,M-15,7615,Metals
+96902,B-19,9505,Metals
+89098,J-10,3520,Goods
+83493,A-16,2087,Automobiles
+83140,A-13,4361,Chemicals
+77531,O-19,6690,Electronics
+51575,G-15,9753,Electronics
+64752,F-14,7081,Oil
+91837,G-13,3082,Machinery
+65210,G-20,1944,Chemicals
+51659,A-16,9012,Oil
+80798,B-18,2418,Metals
+60077,D-15,6646,Chemicals
+72670,P-10,7831,Building Materials
+54471,G-20,4990,Forestry
+74601,P-12,3052,Chemicals
+100000,H-18,9365,Electronics
+75954,N-12,9755,Oil
+81462,K-16,1899,Oil
+93350,I-11,6244,Intermodal Containers
+71728,M-15,3591,Livestock
+63158,B-17,6085,Metals
+72811,J-17,5584,Agricultural
+74619,F-14,6459,Metals
+62522,O-14,8563,Forestry
+72883,E-14,4204,Goods
+66318,L-15,6584,Agricultural
+69367,O-10,8630,Building Materials
+91040,O-20,3195,Intermodal Containers
+96340,L-13,4584,Metals
+94584,D-15,3757,Agricultural
+67103,P-19,3267,Electronics
+78017,B-19,8626,Oil
+71834,L-15,9015,Building Materials
+51488,L-18,1115,Forestry
+69051,C-20,9682,Automobiles
+98752,G-12,5667,Food
+84540,L-14,9024,Machinery
+52495,O-14,4379,Electronics
+79001,B-11,1292,Oil
+57850,I-10,5433,Forestry
+67928,J-13,2112,Agricultural
+73459,L-19,5203,Metals
+60588,P-13,1760,Raw Minerals
+60997,C-15,3892,Metals
+78269,A-13,5255,Chemicals
+54876,O-11,5971,Electronics
+85239,G-13,9238,Raw Minerals
+70981,D-19,1045,Forestry
+91834,P-13,9166,Electronics
+91595,N-18,7915,Raw Minerals
+69286,L-19,7892,Goods
+78499,C-14,2105,Raw Minerals
+86323,M-15,1152,Livestock
+53790,M-20,6665,Chemicals
+56459,O-18,9976,Raw Minerals
+68561,D-19,1221,Automobiles
+95551,N-19,3952,Food
+71550,G-15,1078,Goods
+91893,N-16,2776,Raw Minerals
+50859,B-12,6885,Intermodal Containers
+94183,A-13,6865,Food
+74411,F-19,6134,Goods
+63644,K-20,8786,Automobiles
+85951,N-13,5709,Machinery
+98335,B-16,4289,Raw Minerals
+65177,B-11,7221,Automobiles
+58163,K-16,1172,Automobiles
+71107,G-14,5779,Automobiles
+65490,K-13,5135,Automobiles
+70621,L-12,3991,Forestry
+69708,I-17,5197,Raw Minerals
+81091,H-16,9826,Chemicals
+76660,M-20,3040,Food
+84078,J-17,1542,Machinery
+99159,P-14,8245,Livestock
+84287,N-18,6324,Metals
+85649,I-16,1902,Machinery
+68478,L-13,6344,Chemicals
+62684,D-12,2927,Oil
+95435,M-19,7605,Intermodal Containers
+78832,N-18,5386,Automobiles
+51692,A-12,8142,Oil
+72006,G-17,3605,Goods
+63577,B-15,1015,Automobiles
+52817,P-11,2826,Food
+81231,P-12,5588,Metals
+55462,E-18,9148,Food
+73728,D-18,9360,Intermodal Containers
+73184,F-10,9941,Machinery
+51325,E-17,5949,Electronics
+66812,C-16,3402,Oil
+94200,E-12,9886,Automobiles
+56460,O-10,8759,Building Materials
+69542,K-14,7536,Building Materials
+54153,M-12,5864,Agricultural
+88306,F-13,9147,Building Materials
+64186,B-15,9317,Automobiles
+82523,K-20,7479,Electronics
+78800,I-11,3894,Chemicals
+75735,D-14,1380,Forestry
+53998,N-16,8196,Raw Minerals
+88226,J-13,2613,Automobiles
+81203,H-12,4397,Agricultural
+67112,B-12,8359,Building Materials
+68870,F-11,4461,Forestry
+51493,L-17,3440,Automobiles
+59037,H-16,4773,Livestock
+75610,J-12,6767,Intermodal Containers
+75692,C-11,3263,Electronics
+95562,A-13,1454,Building Materials
+78398,E-16,5891,Livestock
+67289,D-17,8121,Chemicals
+96959,G-13,7278,Automobiles
+68980,M-20,3003,Intermodal Containers
+82526,L-20,6394,Raw Minerals
+93424,F-11,3044,Livestock
+61203,L-11,9697,Agricultural
+64464,E-11,3245,Building Materials
+95416,K-17,7598,Electronics
+80339,G-11,7485,Machinery
+52449,N-18,2897,Building Materials
+70453,P-10,2288,Goods
+80180,P-19,2940,Automobiles
+52128,G-18,5023,Chemicals
+82691,M-11,7989,Automobiles
+61561,F-18,2471,Building Materials
+68631,I-18,6397,Oil
+58809,N-17,9721,Electronics
+96872,H-10,9701,Electronics
+63148,I-20,3330,Oil
+52832,A-15,5350,Food
+91585,L-18,2759,Oil
+80271,I-19,9581,Electronics
+54706,P-11,6366,Forestry
+89280,C-11,6548,Building Materials
+82431,D-14,8311,Agricultural
+99240,G-13,2159,Building Materials
+51456,E-12,9559,Chemicals
+73895,I-10,4038,Intermodal Containers
+57012,B-12,2627,Raw Minerals
+98426,G-12,1140,Chemicals
+91417,I-13,4471,Livestock
+66148,P-11,4900,Goods
+89080,E-15,3175,Automobiles
+81840,C-20,4009,Chemicals
+66888,G-14,7183,Automobiles
+79164,E-20,1289,Electronics
+95362,O-12,5787,Building Materials
+95374,J-10,2575,Machinery
+68354,C-10,6717,Forestry
+78523,P-18,6754,Forestry
+54759,H-20,6754,Oil
+95178,P-14,4816,Building Materials
+64747,D-15,5624,Building Materials
+51285,H-14,4501,Food
+76988,B-12,5139,Chemicals
+81885,A-16,4896,Goods
+92491,I-10,9239,Chemicals
+56285,M-10,2058,Livestock
+92727,M-10,6401,Livestock
+90868,P-19,7206,Forestry
+62402,A-17,2735,Automobiles
+73907,O-10,4225,Electronics
+67935,F-12,8768,Livestock
+64478,P-16,4695,Electronics
+84367,H-15,3859,Livestock
+88656,B-13,6636,Automobiles
+65581,F-17,1948,Building Materials
+64765,K-19,9431,Chemicals
+83199,O-19,9157,Machinery
+97835,F-12,9834,Forestry
+69318,E-15,1811,Metals
+93252,G-13,8442,Automobiles
+87440,H-17,9840,Goods
+59264,H-19,3744,Machinery
+83165,P-20,4407,Forestry
+90674,B-13,8734,Agricultural
+60520,H-16,3830,Food
+85405,G-13,7409,Automobiles
+53377,J-15,3036,Raw Minerals
+71628,B-17,6136,Automobiles
+77334,M-20,5147,Chemicals
+65341,N-10,6699,Goods
+92004,F-11,3643,Intermodal Containers
+89723,I-16,5982,Forestry
+96218,H-18,7156,Intermodal Containers
+62163,I-17,1121,Building Materials
+78610,I-11,8204,Automobiles
+64313,L-16,7396,Livestock
+78024,M-19,1375,Electronics
+85477,B-15,3956,Machinery
+94143,O-20,2882,Building Materials
+68111,D-17,2905,Oil
+54315,I-12,8669,Machinery
+58431,H-18,8965,Chemicals
+81793,B-20,6537,Electronics
+77595,O-16,6540,Agricultural
+56103,K-11,2282,Building Materials
+84403,H-20,8697,Forestry
+77431,A-10,9202,Oil
+50446,A-19,1880,Raw Minerals
+98427,C-14,1999,Raw Minerals
+92587,G-19,9607,Intermodal Containers
+60957,F-13,5781,Forestry
+66572,O-14,4407,Food
+59451,D-15,7787,Forestry
+71431,O-19,9906,Food
+53760,H-12,9447,Metals
+85996,C-12,6838,Livestock
+58812,B-15,5729,Oil
+92209,J-19,6840,Machinery
+50702,O-19,7916,Building Materials
+52021,D-10,4457,Automobiles
+85421,C-18,7376,Chemicals
+61116,B-15,4544,Raw Minerals
+58571,M-14,9491,Metals
+91154,K-19,6015,Goods
+68212,D-14,5085,Automobiles
+94427,J-10,1143,Automobiles
+50238,H-18,1075,Chemicals
+77958,M-17,9093,Oil
+83747,F-16,2700,Intermodal Containers
+76303,C-14,1602,Metals
+93164,M-13,1196,Oil
+61122,B-18,5926,Chemicals
+96942,E-16,2762,Intermodal Containers
+72552,L-19,7665,Electronics
+92012,N-13,4256,Chemicals
+87865,G-18,2827,Building Materials
+93156,G-18,5378,Automobiles
+61541,O-15,3453,Machinery
+67057,B-19,7698,Oil
+63460,I-15,6562,Building Materials
+79151,J-10,5118,Raw Minerals
+68502,G-18,2069,Forestry
+60032,B-13,7735,Raw Minerals
+90847,B-10,5303,Machinery
+76186,N-14,5951,Machinery
+97975,I-15,3715,Building Materials
+59668,G-18,2665,Forestry
+66057,E-10,8021,Automobiles
+82021,A-10,3439,Metals
+55567,O-13,4779,Intermodal Containers
+88392,D-13,5621,Automobiles
+87525,A-15,4721,Electronics
+80188,P-14,9301,Oil
+52032,C-19,2936,Goods
+83860,N-10,3280,Agricultural
+85122,N-12,5605,Intermodal Containers
+57862,E-15,1618,Machinery
+81349,C-15,7796,Intermodal Containers
+64518,B-12,4153,Agricultural
+59017,L-12,9038,Oil
+66489,F-13,9980,Livestock
+93326,E-13,6593,Goods
+74427,J-17,3895,Building Materials
+78717,J-12,2319,Food
+72944,O-16,1332,Forestry
+68439,I-19,5953,Automobiles
+98227,K-17,9845,Raw Minerals
+71524,P-16,4416,Livestock
+82365,G-13,2712,Forestry
+56319,D-17,5373,Intermodal Containers
+86004,C-20,8462,Building Materials
+87888,A-13,7338,Food
+75189,A-18,1250,Forestry
+80585,P-14,4648,Agricultural
+99584,F-18,7595,Chemicals
+69925,O-20,1020,Building Materials
+61150,H-20,7544,Automobiles
+72887,G-13,1407,Oil
+73783,G-11,4268,Forestry
+61935,G-18,4554,Electronics
+82470,K-20,3052,Livestock
+95461,L-20,2268,Food
+87760,H-20,1881,Machinery
+52543,L-16,2991,Automobiles
+80490,K-17,2644,Electronics
+66542,O-16,8671,Oil
+52020,M-14,8922,Automobiles
+94506,F-15,1476,Automobiles
+83623,N-16,5575,Agricultural
+52356,P-20,6987,Forestry
+54546,H-13,7345,Agricultural
+76242,N-19,4644,Machinery
+76168,I-12,1899,Building Materials
+89906,P-15,9537,Goods
+60121,N-19,7294,Building Materials
+72234,I-16,2003,Metals
+82316,I-18,4161,Automobiles
+99364,A-11,1275,Oil
+74092,E-11,2792,Oil
+76312,I-15,1888,Machinery
+87116,F-14,3056,Electronics
+87869,A-17,3290,Food
+99710,A-18,5845,Machinery
+72593,K-15,7898,Agricultural
+60083,H-15,3220,Building Materials
+67797,F-11,8058,Building Materials
+50104,F-13,6267,Building Materials
+61322,M-18,1536,Oil
+70773,O-17,4986,Raw Minerals
+57517,B-12,7055,Food
+64777,B-13,7136,Intermodal Containers
+73015,F-10,6181,Agricultural
+88272,E-12,3316,Automobiles
+98221,H-11,6714,Food
+95663,I-12,4188,Forestry
+99422,B-13,7695,Chemicals
+55389,N-18,8808,Forestry
+94037,I-18,3121,Food
+79500,E-13,9402,Food
+60046,M-16,8653,Electronics
+83836,H-18,8530,Metals
+50110,C-18,7073,Automobiles
+96502,M-14,4996,Oil
+53148,B-19,2779,Raw Minerals
+68610,H-10,8102,Chemicals
+97749,C-18,3761,Chemicals
+98647,M-13,9502,Oil
+57314,G-17,6215,Oil
+75397,B-15,3874,Intermodal Containers
+91453,B-11,6673,Agricultural
+68982,D-10,4751,Machinery
+70760,N-12,8513,Goods
+69458,D-10,3387,Food
+63097,L-11,3216,Food
+88781,I-14,8617,Food
+70351,K-14,5044,Livestock
+80193,C-13,4696,Goods
+93338,P-12,9384,Building Materials
+76797,O-10,2369,Food
+65288,B-14,3478,Machinery
+82821,E-19,7406,Goods
+90491,M-20,1644,Machinery
+62186,F-10,1243,Oil
+87613,C-13,7150,Oil
+82206,P-19,2456,Forestry
+94925,P-16,5492,Intermodal Containers
+68084,P-13,9499,Forestry
+82970,C-14,5865,Oil
+55289,I-13,3438,Intermodal Containers
+97144,L-19,8030,Livestock
+81632,E-15,2125,Electronics
+79182,F-15,1322,Forestry
+84696,A-10,2667,Machinery
+99745,A-20,8871,Food
+64852,C-12,2734,Intermodal Containers
+99793,F-15,8548,Goods
+96767,F-15,5441,Goods
+96433,I-12,4557,Agricultural
+88055,A-19,2610,Agricultural
+74157,E-17,6450,Chemicals
+67576,G-11,7169,Goods
+82256,O-14,9682,Agricultural
+82457,G-10,8001,Machinery
+58496,F-20,5191,Automobiles
+53493,P-20,9846,Machinery
+92982,C-20,5350,Raw Minerals
+54784,O-16,9944,Chemicals
+50249,O-10,9869,Automobiles
+66342,N-19,2816,Livestock
+76125,K-18,7876,Building Materials
+88678,L-13,2746,Automobiles
+77249,J-14,3050,Goods
+83864,B-16,4337,Electronics
+57363,C-18,2164,Food
+82749,M-15,4095,Electronics
+88931,F-10,3725,Oil
+64667,E-11,3229,Livestock
+72040,F-14,3646,Food
+79996,E-13,5284,Intermodal Containers
+74683,A-15,7359,Machinery
+73491,D-19,5895,Machinery
+86516,F-17,1680,Metals
+81792,N-11,8829,Intermodal Containers
+69640,G-12,7182,Raw Minerals
+59904,C-10,8854,Raw Minerals
+71064,H-20,4145,Automobiles
+65416,O-14,2825,Food
+91544,G-13,9431,Goods
+94522,J-18,8198,Intermodal Containers
+94748,K-15,6596,Forestry
+53213,F-16,2001,Food
+66034,E-11,2070,Oil
+58366,D-14,3267,Automobiles
+74594,M-11,1456,Livestock
+79292,F-14,6941,Metals
+51863,F-10,3669,Raw Minerals
+93589,J-10,3734,Livestock
+64225,A-20,2675,Building Materials
+95053,I-13,9257,Goods
+56949,F-14,7795,Building Materials
+78083,J-11,3139,Intermodal Containers
+57082,E-15,3108,Oil
+64122,O-14,7913,Livestock
+78880,B-18,9277,Chemicals
+62055,M-20,2188,Livestock
+93937,D-11,9237,Metals
+83972,M-19,6030,Livestock
+71061,H-14,1825,Intermodal Containers
+92355,C-20,6079,Livestock
+90576,D-15,1044,Electronics
+58105,C-17,2467,Automobiles
+65167,B-15,4023,Machinery
+72777,E-12,3162,Oil
+65003,L-20,5215,Machinery
+61860,L-14,4782,Forestry
+71110,K-19,9228,Agricultural
+79976,J-11,9552,Food
+62846,L-18,3755,Goods
+80306,K-14,9179,Agricultural
+85512,J-14,1808,Raw Minerals
+62016,D-17,4908,Machinery
+75511,P-12,5391,Livestock
+53811,P-13,3128,Metals
+87681,L-16,8608,Machinery
+94348,B-16,9461,Agricultural
+64754,D-10,2585,Oil
+51518,I-14,3548,Raw Minerals
+55664,L-14,7115,Electronics
+68822,O-19,5976,Oil
+80706,E-13,5231,Automobiles
+67861,F-19,4002,Machinery
+65839,L-12,3440,Livestock
+79670,C-13,9780,Agricultural
+89615,J-19,3753,Food
+52145,P-16,2292,Agricultural
+97551,H-12,8685,Oil
+93900,D-12,6247,Electronics
+60288,O-10,6008,Building Materials
+64412,D-10,6141,Metals
+59241,P-17,7761,Food
+61734,C-11,9846,Automobiles
+86190,I-10,6717,Oil
+71052,M-19,8513,Automobiles
+50180,N-13,9125,Automobiles
+86040,F-15,4012,Livestock
+84210,O-14,6088,Forestry
+87439,H-18,8650,Metals
+97425,N-12,3230,Intermodal Containers
+93154,O-11,3571,Machinery
+88755,K-18,1575,Oil
+81499,L-16,4776,Food
+68891,O-13,7818,Chemicals
+96914,N-17,1741,Raw Minerals
+91696,A-18,9041,Oil
+61047,F-18,7653,Livestock
+50918,G-17,3222,Food
+89051,H-13,9627,Chemicals
+89811,E-16,2001,Raw Minerals
+78336,F-12,4208,Intermodal Containers
+71102,B-12,4448,Building Materials
+66813,O-11,4252,Automobiles
+67384,G-17,5036,Oil
+67921,M-20,3939,Automobiles
+64032,K-19,8211,Machinery
+73834,O-14,5314,Raw Minerals
+55919,E-19,3638,Goods
+63484,C-20,6393,Livestock
+51006,F-13,6968,Building Materials
+92596,H-17,5441,Building Materials
+53789,P-12,1038,Food
+72121,O-17,3122,Forestry
+61152,N-12,5467,Metals
+92300,N-10,9604,Metals
+70697,K-11,9059,Electronics
+67607,P-19,2490,Automobiles
+50873,L-18,1798,Metals
+83478,B-18,6134,Food
+86996,E-13,2139,Raw Minerals
+54902,N-11,1346,Automobiles
+81574,O-14,3111,Oil
+86976,P-15,2741,Chemicals
+99620,E-15,3149,Metals
+71589,J-11,2321,Agricultural
+56668,J-19,9149,Raw Minerals
+82349,C-14,3320,Electronics
+69860,N-18,7315,Metals
+66936,D-10,2753,Oil
+65971,B-15,2174,Livestock
+97775,G-19,1422,Machinery
+66977,I-17,5087,Electronics
+78091,K-12,8472,Goods
+89612,C-14,5839,Goods
+86114,N-13,9164,Chemicals
+60842,E-13,4307,Machinery
+55791,M-17,1323,Building Materials
+73211,G-15,8117,Chemicals
+74185,I-13,2698,Forestry
+83428,F-14,5540,Machinery
+78482,L-10,7984,Building Materials
+75834,H-11,8604,Building Materials
+79145,M-18,9386,Agricultural
+55620,M-18,9363,Automobiles
+81556,I-19,5053,Machinery
+96039,E-17,6969,Automobiles
+95271,H-18,6227,Machinery
+93206,L-13,3953,Automobiles
+66197,J-14,4285,Forestry
+61535,P-15,2890,Automobiles
+91264,K-15,3125,Forestry
+62282,G-12,9147,Oil
+60278,B-13,6594,Machinery
+61510,M-16,7914,Oil
+62143,B-14,1755,Livestock
+80524,D-17,2688,Goods
+71277,E-14,5795,Agricultural
+69229,L-14,7689,Intermodal Containers
+85506,N-12,7539,Intermodal Containers
+75802,G-18,8619,Automobiles
+87700,K-15,3524,Metals
+91419,O-13,7151,Oil
+54825,C-18,4947,Machinery
+79174,J-17,9035,Machinery
+96237,I-10,3612,Electronics
+53636,N-18,9515,Forestry
+56068,I-14,3770,Forestry
+63805,K-13,6942,Food
+90916,F-14,1546,Intermodal Containers
+83012,F-16,6435,Forestry
+84168,K-19,3345,Food
+65061,B-16,2081,Livestock
+59538,J-15,3699,Automobiles
+98756,M-12,6583,Food
+86980,F-16,2040,Agricultural
+85466,G-16,3427,Oil
+77439,M-13,8373,Intermodal Containers
+89101,H-12,8027,Metals
+82061,H-15,2006,Livestock
+96639,C-14,5794,Agricultural
+64290,P-11,6672,Oil
+53896,A-20,2144,Goods
+79423,L-16,8039,Livestock
+71631,G-14,8752,Food
+90281,H-13,6447,Building Materials
+87335,D-12,2397,Raw Minerals
+56277,G-11,1654,Forestry
+59121,A-17,9898,Agricultural
+82079,G-15,5692,Chemicals
+76420,H-10,2885,Raw Minerals
+88764,B-18,1865,Machinery
+92795,G-14,5507,Food
+54890,B-12,1426,Oil
+83440,D-15,6482,Raw Minerals
+68545,H-18,2124,Food
+94870,P-11,6039,Raw Minerals
+90598,O-19,5666,Electronics
+87534,G-17,6939,Metals
+86770,C-10,2853,Agricultural
+94251,J-19,6485,Forestry
+67948,K-13,4395,Raw Minerals
+77766,M-18,4410,Machinery
+83519,O-11,8564,Electronics
+68571,H-11,9122,Electronics
+73675,O-14,4506,Electronics
+92871,H-19,9671,Chemicals
+51461,G-15,6510,Machinery
+56658,E-20,2221,Forestry
+95968,E-19,4750,Intermodal Containers
+82506,B-12,3666,Goods
+61946,G-20,9523,Machinery
+56598,N-10,5086,Intermodal Containers
+97694,P-20,3550,Electronics
+61880,E-15,4694,Metals
+51866,G-13,9570,Metals
+64358,M-19,3373,Forestry
+82082,J-10,2387,Oil
+91203,M-16,9616,Building Materials
+97533,M-10,6677,Food
+73354,I-12,4351,Agricultural
+50185,E-18,7077,Food
+77123,J-10,5139,Electronics
+62578,D-16,8731,Automobiles
+52761,N-10,1640,Building Materials
+73342,G-15,7114,Metals
+89426,D-16,7563,Raw Minerals
+68002,G-10,1248,Intermodal Containers
+92616,G-10,4353,Chemicals
+52399,G-14,5481,Chemicals
+91224,N-17,9309,Raw Minerals
+95927,H-15,5007,Chemicals
+86903,A-10,8181,Food
+66213,I-13,9208,Building Materials
+71543,A-11,2352,Oil
+82202,J-17,2445,Forestry
+67322,D-10,6277,Agricultural
+99478,N-17,7928,Agricultural
+86761,N-20,4164,Metals
+63024,J-11,3234,Oil
+95916,H-17,6030,Automobiles
+75038,O-17,1193,Oil
+70788,H-16,8077,Automobiles
+98627,G-10,8191,Machinery
+69941,E-12,1375,Automobiles
+59583,L-13,2781,Food
+99954,I-15,9782,Food
+53448,O-13,1157,Metals
+61512,P-11,6408,Oil
+85663,G-12,8375,Food
+88313,I-12,7820,Agricultural
+77855,I-19,8982,Food
+96823,A-11,8789,Forestry
+81112,E-17,8330,Chemicals
+98604,L-16,2634,Agricultural
+99267,D-16,4837,Forestry
+78251,O-15,2245,Agricultural
+95628,H-12,4713,Oil
+84649,G-18,2482,Goods
+53948,L-11,7958,Automobiles
+99105,B-20,6635,Food
+50151,O-20,2662,Metals
+94320,N-11,8483,Electronics
+54862,C-19,6762,Intermodal Containers
+59005,L-18,6944,Metals
+78413,F-11,6985,Livestock
+76336,H-19,7004,Machinery
+58208,J-10,7023,Chemicals
+81886,O-19,3763,Oil
+67866,L-15,8042,Chemicals
+68527,N-15,6133,Automobiles
+96194,L-19,5147,Intermodal Containers
+72051,E-10,1786,Machinery
+95729,E-14,8925,Automobiles
+75634,G-14,8112,Goods
+51090,B-20,1888,Machinery
+92850,A-10,5068,Oil
+77125,L-19,4134,Oil
+62919,E-17,8973,Machinery
+57789,H-16,8148,Oil
+90680,I-18,5293,Forestry
+52868,N-18,4898,Forestry
+66237,M-19,2425,Electronics
+88292,B-19,1931,Machinery
+62378,B-18,9471,Electronics
+51710,N-14,6369,Goods
+52240,J-20,1081,Machinery
+81816,N-14,1468,Building Materials
+83765,H-16,1460,Forestry
+65865,B-15,2749,Livestock
+88351,K-14,8630,Metals
+87453,L-14,8981,Agricultural
+69830,I-17,6284,Goods
+60513,E-18,9864,Goods
+51941,J-17,2855,Agricultural
+55210,J-11,1138,Electronics
+79871,N-14,1761,Building Materials
+86033,A-14,7608,Building Materials
+89255,G-12,1846,Forestry
+98924,F-17,7511,Livestock
+72007,C-12,4075,Food
+81434,L-19,6835,Chemicals
+82793,C-13,5536,Raw Minerals
+59632,G-20,1030,Building Materials
+64366,B-20,9979,Oil
+82816,A-14,2213,Forestry
+80216,E-14,7912,Chemicals
+62318,L-13,5207,Electronics
+56719,K-10,2389,Forestry
+73730,B-19,8553,Automobiles
+79772,I-14,6061,Machinery
+93565,M-10,2193,Building Materials
+71162,L-18,2416,Metals
+96994,A-20,8178,Raw Minerals
+86287,N-20,1711,Building Materials
+86608,O-16,1274,Machinery
+78569,D-17,5075,Electronics
+91521,B-18,2095,Metals
+84052,B-11,2878,Forestry
+87542,H-19,1257,Metals
+94751,A-11,9689,Goods
+90862,M-12,8428,Chemicals
+75386,G-17,4353,Raw Minerals
+90565,C-18,3822,Forestry
+55217,N-20,2310,Livestock
+75913,I-15,5720,Livestock
+64332,E-11,1383,Raw Minerals
+83770,A-14,6841,Building Materials
+77717,P-13,4304,Oil
+72161,H-17,4941,Machinery
+61762,M-19,6865,Electronics
+87488,B-11,4937,Forestry
+89864,N-12,8482,Metals
+60451,P-13,2949,Building Materials
+55367,C-20,6601,Raw Minerals
+88642,A-18,1969,Forestry
+55932,A-18,9539,Food
+96165,C-18,4923,Forestry
+98365,I-18,4028,Oil
+92333,A-11,7829,Oil
+89994,A-12,8672,Raw Minerals
+86955,P-13,2748,Building Materials
+75473,N-19,2357,Chemicals
+69910,B-13,6080,Metals
+74801,G-19,4550,Oil
+85507,E-10,1969,Chemicals
+63573,F-11,8473,Raw Minerals
+71136,A-10,3751,Metals
+53108,I-10,4057,Electronics
+67100,B-16,3012,Automobiles
+77645,C-18,4466,Agricultural
+77034,G-17,5076,Building Materials
+57044,B-19,1588,Agricultural
+80084,B-18,1295,Raw Minerals
+69087,D-17,9338,Electronics
+52225,P-11,3569,Food
+78636,M-20,6673,Building Materials
+85443,C-17,4523,Forestry
+87900,I-11,3248,Agricultural
+51093,N-16,9905,Raw Minerals
+86322,J-15,5989,Electronics
+97355,C-13,1874,Machinery
+54665,N-14,4491,Chemicals
+77726,H-12,9522,Goods
+82040,M-18,1783,Forestry
+95708,I-14,3993,Goods
+68479,A-17,1759,Electronics
+96399,B-20,3612,Food
+52577,G-13,4339,Metals
+99548,C-14,1940,Building Materials
+71228,I-13,7667,Electronics
+69280,H-11,4826,Intermodal Containers
+72473,C-18,3748,Chemicals
+52327,A-11,7708,Automobiles
+83669,K-11,1862,Forestry
+86691,I-14,5976,Intermodal Containers
+50742,B-11,2917,Oil
+87696,H-13,7837,Oil
+95081,I-14,2595,Intermodal Containers
+58183,D-16,8078,Oil
+68779,H-17,8916,Forestry
+60822,L-12,1706,Metals
+82430,E-16,3171,Electronics
+62807,A-14,7715,Agricultural
+69603,L-11,6993,Building Materials
+86320,N-18,8007,Intermodal Containers
+59074,G-15,5161,Forestry
+52652,E-19,5615,Metals
+88704,C-12,3063,Oil
+80921,E-12,8937,Food
+72168,F-11,9241,Raw Minerals
+73528,M-15,3255,Metals
+50253,E-10,5270,Livestock
+89607,J-19,4000,Agricultural
+51133,H-12,8002,Food
+99172,I-15,4333,Intermodal Containers
+67567,A-11,3959,Agricultural
+54769,I-20,6204,Forestry
+80164,E-18,1180,Intermodal Containers
+56020,D-10,9091,Agricultural
+65773,D-20,8109,Automobiles
+92169,J-15,4636,Electronics
+94225,D-16,3954,Automobiles
+81832,J-12,1175,Automobiles
+76575,E-14,5684,Automobiles
+75537,F-16,2440,Food
+57762,B-17,2793,Automobiles
+55399,B-16,6593,Livestock
+62804,A-19,6676,Livestock
+80450,B-11,9524,Machinery
+99142,J-13,5229,Electronics
+59926,I-18,3208,Food
+67939,B-19,2935,Raw Minerals
+98803,A-11,8812,Metals
+76402,P-12,8166,Metals
+84073,P-12,7095,Raw Minerals
+90324,D-12,9366,Oil
+59051,G-16,8402,Raw Minerals
+91540,E-14,5166,Oil
+70114,B-19,6752,Intermodal Containers
+79714,G-10,3779,Machinery
+62392,F-16,8787,Chemicals
+56813,D-20,6082,Metals
+64119,N-18,9452,Raw Minerals
+83047,B-13,5434,Goods
+79168,L-17,7090,Machinery
+90930,M-11,2732,Intermodal Containers
+94972,D-13,8222,Food
+99146,B-10,9455,Electronics
+57734,G-14,8266,Oil
+86604,H-20,2041,Livestock
+98080,C-17,9900,Goods
+55437,F-12,1113,Machinery
+61974,C-15,3691,Goods
+54754,F-10,2596,Livestock
+60948,J-17,1090,Chemicals
+59949,E-19,2862,Oil
+51437,M-10,1028,Forestry
+86763,E-10,4100,Oil
+81378,O-17,2298,Electronics
+72341,O-20,7984,Livestock
+54926,F-16,9663,Electronics
+54236,L-11,1229,Chemicals
+63189,J-19,9864,Machinery
+96474,I-12,6570,Building Materials
+68733,F-17,1552,Agricultural
+97307,N-19,7721,Livestock
+69183,P-13,1005,Machinery
+59875,J-20,4693,Food
+81610,D-20,1492,Goods
+69579,C-19,2992,Forestry
+97168,M-10,3185,Building Materials
+87136,H-16,6075,Forestry
+96435,M-13,8703,Goods
+74603,E-16,7769,Metals
+52863,O-16,7546,Electronics
+54612,D-17,9775,Electronics
+54531,K-12,7468,Machinery
+58323,H-14,2280,Agricultural
+79460,E-15,1708,Building Materials
+95588,P-17,1617,Building Materials
+63847,F-19,8042,Raw Minerals
+68744,L-19,9557,Goods
+53168,K-16,5593,Building Materials
+65006,B-10,7848,Machinery
+70960,G-12,3162,Intermodal Containers
+69428,K-12,4874,Automobiles
+90861,B-20,6652,Forestry
+88859,N-20,7341,Chemicals
+71554,L-11,9872,Food
+85850,P-20,9104,Forestry
+82054,I-15,5371,Intermodal Containers
+90857,D-14,4833,Machinery
+94434,K-16,7262,Intermodal Containers
+63612,H-20,7407,Building Materials
+86335,I-20,8367,Machinery
+76750,E-10,7986,Metals
+72782,F-10,1976,Building Materials
+60454,A-12,5689,Food
+98423,M-18,2863,Electronics
+84641,K-18,7750,Building Materials
+77590,F-13,9630,Intermodal Containers
+89761,P-14,5588,Building Materials
+67208,L-19,7872,Food
+82619,I-17,5635,Agricultural
+80622,J-17,6539,Forestry
+84059,B-13,1447,Building Materials
+74826,H-12,5631,Raw Minerals
+69359,P-17,2400,Food
+84289,C-16,6431,Forestry
+62056,K-10,7985,Food
+56554,I-13,7342,Forestry
+78065,D-10,1325,Automobiles
+94933,C-20,9000,Forestry
+61917,M-17,8349,Goods
+66504,H-13,5073,Building Materials
+97426,B-11,4495,Machinery
+80015,I-12,5177,Goods
+60629,F-10,8547,Oil
+93440,F-20,2430,Chemicals
+66524,P-16,1399,Oil
+91667,M-19,2742,Food
+51830,N-19,3694,Automobiles
+95423,G-11,4448,Livestock
+94597,N-18,2884,Oil
+77259,C-14,8484,Oil
+58094,O-18,6508,Oil
+72083,I-13,3276,Livestock
+92393,D-19,7212,Electronics
+97967,J-14,9905,Raw Minerals
+56613,P-12,4628,Chemicals
+66377,D-19,9381,Chemicals
+70111,M-15,9552,Building Materials
+52611,L-12,1101,Machinery
+71602,H-11,7052,Raw Minerals
+97030,P-15,1701,Electronics
+90168,E-17,3055,Metals
+77361,I-13,3680,Goods
+62148,C-13,3571,Goods
+52653,K-10,3397,Goods
+92787,B-20,3754,Food
+74651,N-13,3644,Machinery
+77091,J-12,6755,Chemicals
+50853,H-13,5664,Forestry
+76720,K-18,3190,Forestry
+69026,N-17,4824,Building Materials
+56361,B-18,2107,Livestock
+68046,D-14,8600,Forestry
+59274,K-16,5841,Chemicals
+53781,N-20,9150,Livestock
+69105,G-12,1508,Metals
+76759,C-20,5756,Automobiles
+80582,E-13,7507,Agricultural
+87775,H-16,3005,Goods
+66730,C-11,4709,Food
+59536,H-18,2444,Food
+54385,E-12,3078,Agricultural
+66858,P-15,7595,Machinery
+79053,D-16,2499,Oil
+71411,I-12,4607,Machinery
+51982,P-15,3771,Raw Minerals
+55481,K-17,2827,Machinery
+84410,J-12,6029,Oil
+78115,J-15,4022,Chemicals
+63159,B-20,3784,Oil
+59397,D-11,2594,Food
+93967,D-10,8719,Building Materials
+57250,N-16,1919,Building Materials
+79661,P-14,5745,Building Materials
+72623,H-12,1361,Machinery
+80503,D-15,2069,Goods
+62206,D-13,1856,Livestock
+92285,J-11,2932,Intermodal Containers
+62063,J-16,4240,Automobiles
+88789,I-19,5631,Building Materials
+97982,N-14,8155,Agricultural
+60353,H-20,4430,Chemicals
+55355,I-16,6577,Agricultural
+89981,D-10,2981,Building Materials
+63211,I-13,5362,Goods
+94394,I-11,8269,Building Materials
+57897,B-14,1755,Building Materials
+98655,J-12,2085,Electronics
+98204,C-10,2163,Chemicals
+65522,I-13,9187,Intermodal Containers
+55603,P-14,1166,Goods
+70861,I-16,3489,Oil
+68773,K-10,1772,Agricultural
+99467,E-10,7574,Goods
+79681,K-11,2063,Intermodal Containers
+72372,C-16,2489,Raw Minerals
+75751,J-13,6772,Food
+69401,J-16,3515,Building Materials
+58897,O-18,3642,Building Materials
+82678,O-11,3631,Building Materials
+89824,K-18,7272,Raw Minerals
+98391,A-11,8449,Goods
+58115,O-19,3564,Goods
+77256,B-15,7409,Goods
+96927,K-11,9319,Oil
+78807,D-11,3545,Livestock
+76302,L-17,1798,Raw Minerals
+92718,O-16,2007,Forestry
+82989,O-17,9659,Metals
+64014,I-12,7869,Food
+97088,N-17,4242,Machinery
+57693,K-15,7600,Chemicals
+54411,O-12,4413,Food
+85316,D-19,7845,Goods
+78031,E-10,1321,Raw Minerals
+66885,H-12,7125,Intermodal Containers
+87825,F-15,1596,Agricultural
+74582,O-10,3973,Forestry
+53455,P-11,7414,Agricultural
+52725,L-11,8885,Food
+82574,H-19,8990,Machinery
+97910,L-18,4123,Raw Minerals
+62074,N-13,3556,Forestry
+50725,K-20,9743,Raw Minerals
+75796,F-10,7679,Machinery
+80756,L-15,3875,Food
+74647,K-10,9975,Forestry
+65630,D-20,2220,Livestock
+84503,N-13,1593,Livestock
+70444,B-17,9225,Automobiles
+55817,P-18,7863,Electronics
+53463,K-16,1054,Goods
+77789,P-10,7539,Metals
+72615,A-13,7916,Forestry
+63161,C-18,9816,Automobiles
+98664,N-18,1820,Agricultural
+67895,A-13,1102,Raw Minerals
+69192,C-10,2002,Goods
+87642,N-14,8694,Machinery
+83479,L-18,4633,Building Materials
+65823,N-19,3501,Food
+63603,B-19,5184,Building Materials
+81056,I-19,1019,Food
+99712,J-15,4469,Livestock
+79196,M-17,2918,Machinery
+98420,I-11,6895,Raw Minerals
+69411,L-14,6932,Raw Minerals
+51966,J-17,5954,Electronics
+88558,F-17,4985,Automobiles
+69198,K-11,8688,Livestock
+71363,G-19,5735,Metals
+82845,F-14,6395,Raw Minerals
+94790,B-10,1851,Automobiles
+81094,C-17,8431,Machinery
+75939,F-17,9371,Food
+76579,G-15,6768,Food
+73882,I-15,9668,Food
+79975,L-11,4252,Metals
+99664,L-13,4766,Machinery
+56236,G-19,3839,Forestry
+77196,D-18,4951,Livestock
+82895,L-16,2292,Oil
+69585,O-13,9480,Raw Minerals
+62389,D-11,9854,Livestock
+95040,G-10,8271,Intermodal Containers
+88252,J-20,8827,Livestock
+65837,A-17,1012,Intermodal Containers
+53708,F-19,8407,Machinery
+82708,E-12,9458,Machinery
+82661,P-17,9528,Oil
+56234,F-16,1373,Building Materials
+52307,C-19,6018,Electronics
+99627,A-15,2500,Agricultural
+65235,J-18,5632,Machinery
+52785,O-17,9548,Goods
+84666,N-12,5646,Automobiles
+59278,O-14,8706,Building Materials
+53129,P-11,9813,Building Materials
+69788,L-14,3309,Oil
+77688,K-10,6438,Agricultural
+99701,E-11,3317,Intermodal Containers
+82208,M-14,9086,Oil
+59316,O-18,5893,Intermodal Containers
+84334,K-13,5842,Building Materials
+71483,L-12,7517,Metals
+60085,K-14,9923,Chemicals
+56431,G-18,4810,Intermodal Containers
+97348,G-17,4146,Goods
+54770,H-20,4305,Oil
+81400,B-13,1552,Machinery
+55157,H-13,9575,Agricultural
+91220,P-10,9913,Automobiles
+63842,F-16,8808,Building Materials
+67172,O-12,4226,Oil
+92292,H-14,3088,Livestock
+50090,M-20,4255,Raw Minerals
+75425,I-16,6856,Forestry
+89878,C-14,7628,Raw Minerals
+92674,B-15,8771,Machinery
+55651,J-17,7175,Machinery
+90033,B-14,4672,Goods
+64218,A-14,5734,Livestock
+52339,I-20,9568,Goods
+69067,J-14,6772,Oil
+81558,N-17,5452,Building Materials
+73334,A-20,2778,Oil
+76410,B-14,6405,Intermodal Containers
+97337,M-18,7728,Raw Minerals
+71672,O-10,6307,Intermodal Containers
+99288,G-13,7056,Agricultural
+74662,F-15,4066,Livestock
+75689,I-20,5352,Automobiles
+96310,O-14,1228,Goods
+86914,I-15,1220,Livestock
+61556,A-19,9666,Building Materials
+82648,N-12,3037,Food
+87061,C-11,8802,Agricultural
+95172,A-11,8118,Forestry
+51392,F-10,5111,Intermodal Containers
+85234,B-17,8424,Oil
+55906,H-13,6079,Oil
+53350,P-11,1181,Building Materials
+65633,C-19,4318,Automobiles
+62353,B-14,3871,Agricultural
+64027,F-12,6434,Intermodal Containers
+87081,N-10,6281,Agricultural
+93321,E-19,7581,Food
+77891,F-14,9152,Machinery
+51701,K-10,9226,Chemicals
+54034,P-15,7633,Intermodal Containers
+63414,K-17,9640,Chemicals
+96999,M-13,5762,Livestock
+90773,D-15,6026,Intermodal Containers
+63912,C-14,3506,Agricultural
+98061,B-15,6102,Automobiles
+52256,D-18,2198,Building Materials
+60452,N-19,5296,Building Materials
+74296,E-13,6488,Intermodal Containers
+71429,D-16,1959,Machinery
+92599,M-19,3179,Food
+60347,O-16,7520,Oil
+55082,M-16,2480,Livestock
+69301,I-14,5766,Automobiles
+81431,K-20,1943,Goods
+79715,F-17,5157,Automobiles
+59983,I-16,1190,Machinery
+91443,O-16,5349,Automobiles
+86534,G-19,3219,Metals
+51846,E-12,5804,Food
+68888,P-17,3786,Goods
+71056,D-18,5746,Automobiles
+77066,E-17,3687,Intermodal Containers
+90964,P-17,8051,Oil
+64515,K-13,1284,Automobiles
+58884,I-15,5809,Goods
+85971,F-11,1059,Raw Minerals
+86339,J-15,6388,Automobiles
+82778,E-12,7759,Metals
+59852,O-18,9158,Metals
+85977,L-10,3727,Goods
+94291,P-17,7116,Agricultural
+61944,M-20,8384,Automobiles
+96049,K-13,3959,Oil
+94514,O-16,9601,Agricultural
+51584,B-12,4371,Intermodal Containers
+52575,H-11,1721,Building Materials
+97276,P-19,3629,Chemicals
+91615,P-10,2778,Automobiles
+64055,N-11,3324,Forestry
+91181,O-11,2096,Livestock
+94716,C-17,3554,Chemicals
+69907,B-11,6846,Building Materials
+95175,J-16,4692,Forestry
+56172,P-12,4119,Food
+75704,F-15,6969,Machinery
+93274,C-18,6362,Forestry
+78099,D-14,9228,Electronics
+83038,F-13,6179,Intermodal Containers
+64548,K-17,6371,Intermodal Containers
+50993,I-15,5974,Agricultural
+90047,H-15,1569,Goods
+99140,M-10,8894,Chemicals
+92022,C-14,9555,Chemicals
+76651,I-10,1139,Livestock
+72511,M-13,1754,Building Materials
+55619,N-10,4101,Agricultural
+93933,E-14,8282,Forestry
+92282,H-15,3734,Machinery
+68668,G-16,3944,Automobiles
+93296,B-18,5347,Chemicals
+97554,N-15,6904,Intermodal Containers
+61977,M-12,4771,Building Materials
+79388,F-15,6001,Raw Minerals
+56429,H-16,8443,Raw Minerals
+68241,H-12,5213,Building Materials
+57631,K-16,8304,Oil
+73687,P-16,3839,Oil
+77324,G-20,1257,Electronics
+96226,F-10,7610,Machinery
+87246,E-10,1324,Automobiles
+96403,A-15,7638,Chemicals
+79416,F-10,1750,Metals
+75427,M-17,1771,Raw Minerals
+53843,F-17,9076,Raw Minerals
+90212,A-11,3566,Goods
+89492,I-12,3055,Oil
+68905,I-11,9297,Metals
+55772,J-18,9617,Metals
+56357,N-18,8407,Agricultural
+53832,I-20,8150,Chemicals
+75006,J-11,4072,Goods
+83598,E-10,5222,Automobiles
+70025,K-11,8060,Automobiles
+92544,J-12,2962,Intermodal Containers
+57497,P-18,8541,Metals
+51301,A-17,5574,Raw Minerals
+68911,L-11,1056,Livestock
+51696,M-20,9991,Goods
+81308,G-20,4028,Electronics
+66403,E-14,5724,Forestry
+51386,G-14,5434,Raw Minerals
+54815,P-14,9214,Building Materials
+94137,D-16,7320,Machinery
+86327,F-11,5711,Electronics
+75612,K-12,4217,Agricultural
+70218,K-14,1482,Chemicals
+78203,M-15,8075,Metals
+91631,J-14,5385,Oil
+50964,A-19,9106,Electronics
+72069,A-17,3991,Chemicals
+69619,J-17,1045,Oil
+78195,D-11,9147,Raw Minerals
+85194,P-14,8866,Livestock
+95756,G-11,9850,Building Materials
+95915,G-18,9175,Metals
+51542,K-12,9381,Livestock
+73198,N-16,4249,Machinery
+51411,F-16,7559,Electronics
+60709,P-19,5208,Raw Minerals
+69951,N-15,9654,Oil
+80331,C-14,9483,Goods
+86212,I-17,2427,Intermodal Containers
+60383,H-13,8074,Chemicals
+82689,K-12,3731,Goods
+71391,D-20,6825,Forestry
+83675,L-17,1339,Building Materials
+61127,A-17,9254,Automobiles
+79408,H-11,2134,Raw Minerals
+64278,A-19,3257,Machinery
+66661,N-18,8586,Agricultural
+94574,B-14,1692,Metals
+61699,J-18,9299,Goods
+66510,D-20,4303,Raw Minerals
+67591,G-11,6572,Metals
+70312,F-20,4437,Goods
+93917,O-12,7852,Metals
+69794,G-17,7712,Chemicals
+65591,M-12,2198,Raw Minerals
+70968,O-16,3263,Chemicals
+68946,L-14,3709,Building Materials
+96052,N-10,4776,Machinery
+79448,H-17,8278,Building Materials
+58010,G-13,8600,Raw Minerals
+95365,D-19,9631,Livestock
+73909,F-11,6442,Livestock
+98445,B-18,4385,Metals
+70386,J-10,6188,Food
+87656,O-12,2802,Building Materials
+73150,C-10,3679,Goods
+75004,N-14,2784,Building Materials
+98568,P-13,8287,Oil
+77359,H-16,7001,Building Materials
+74060,I-16,4783,Oil
+62658,A-19,2631,Agricultural
+54391,P-19,1833,Chemicals
+82567,F-12,9930,Forestry
+95256,N-13,1354,Building Materials
+83227,E-14,5580,Chemicals
+93551,G-10,3770,Machinery
+74998,P-20,1765,Chemicals
+53950,B-18,9319,Forestry
+81985,O-13,7683,Machinery
+54857,O-13,2173,Intermodal Containers
+65673,E-10,8256,Goods
+53913,N-16,7091,Machinery
+56779,C-13,3420,Intermodal Containers
+85782,D-14,9459,Automobiles
+55120,J-14,8548,Oil
+89343,D-18,3989,Livestock
+85482,O-19,4235,Chemicals
+78022,E-17,7551,Electronics
+59199,M-13,2319,Metals
+87138,D-11,8601,Automobiles
+84706,J-14,4803,Automobiles
+69215,P-16,4650,Intermodal Containers
+93333,C-15,1063,Automobiles
+59936,D-18,3995,Metals
+99838,K-14,5742,Building Materials
+83814,P-16,4933,Chemicals

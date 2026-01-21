@@ -1,0 +1,205 @@
+1) 
+WITH 
+  MEMBER [Measures].[Percentage of transports delayed more than one day] AS 
+    ([Measures].[Number of transport facts]) / 
+    (
+      [Measures].[Number of transport facts], 
+      [ID Start Date].[Year].[All], 
+      [Junk DT].[Delay Range].[All]
+    ), 
+    FORMAT_STRING = "Percent"
+SELECT 
+  NON EMPTY { 
+    [Measures].[Percentage of transports delayed more than one day] 
+  } ON COLUMNS 
+FROM 
+  ( 
+    SELECT 
+      ( { [Junk DT].[Delay Range].&[More] } ) ON COLUMNS 
+    FROM 
+      ( 
+        SELECT 
+          ( { [ID Start Date].[Year].&[2024] } ) ON COLUMNS 
+        FROM 
+          [Kolejnictwo Hurtownia] 
+      ) 
+  ) 
+WHERE 
+  ( [ID Start Date].[Year].&[2024], [Junk DT].[Delay Range].&[More] ) 
+CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+2)
+SELECT 
+    NON EMPTY { [Measures].[Number of transport facts] } ON COLUMNS,
+    NON EMPTY { 
+        [ID Start Date].[SeasonHierarchy].[Year].&[2023].&[Winter],
+        [ID Start Date].[SeasonHierarchy].[Year].&[2023].&[Spring],
+        [ID Start Date].[SeasonHierarchy].[Year].&[2023].&[Summer],
+        [ID Start Date].[SeasonHierarchy].[Year].&[2023].&[Fall]
+    } ON ROWS
+FROM 
+    ( SELECT 
+        { [Junk DT].[Is Delay].&[True] } ON COLUMNS 
+      FROM [Kolejnictwo Hurtownia]
+    )
+WHERE 
+    ( [Junk DT].[Is Delay].&[True] )
+CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+ 
+3)
+SELECT 
+    NON EMPTY { [Measures].[Number of transport facts] } ON COLUMNS,
+    NON EMPTY { 
+        [Junk DT].[Locomotive Usage Range].&[Bad],
+        [Junk DT].[Locomotive Usage Range].&[Medium]
+    } ON ROWS
+FROM 
+    ( SELECT 
+        { [ID Start Date].[Year].&[2023] } ON COLUMNS 
+      FROM [Kolejnictwo Hurtownia]
+    )
+WHERE 
+    ( [ID Start Date].[Year].&[2023] )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+4)
+SELECT 
+    NON EMPTY { [Measures].[Number of used freight cars] } ON COLUMNS
+FROM 
+    ( SELECT 
+        { [Transport FT - ID Start Date].[Year].&[2023] } ON COLUMNS 
+      FROM [Kolejnictwo Hurtownia]
+    )
+WHERE 
+    ( [Transport FT - ID Start Date].[Year].&[2023] )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+5)
+SELECT 
+    NON EMPTY { [Measures].[Number of transport facts] } ON COLUMNS,
+    NON EMPTY { 
+        [Junk DT].[Freight Cars Usage Range].&[Bad], 
+        [Junk DT].[Freight Cars Usage Range].&[Good], 
+        [Junk DT].[Freight Cars Usage Range].&[Medium] 
+    } ON ROWS
+FROM 
+    ( SELECT 
+        { [ID Start Date].[Year].&[2023] } ON COLUMNS 
+      FROM [Kolejnictwo Hurtownia]
+    )
+WHERE 
+    ( [ID Start Date].[Year].&[2023] )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+6)
+SELECT 
+    NON EMPTY { [Measures].[Number of contracts] } ON COLUMNS
+FROM 
+    ( SELECT 
+        { [Contract DT SCD2].[Expiration Year].&[2025] } ON COLUMNS 
+        FROM ( SELECT 
+            { [Contract DT SCD2].[Expiration Month].&[01] } ON COLUMNS 
+            FROM ( SELECT 
+                { [ID End Station].[Name].&[Aaronberg] } ON COLUMNS 
+                FROM [Kolejnictwo Hurtownia]
+            )
+        )
+    )
+WHERE 
+    ( 
+        [ID End Station].[Name].&[Aaronberg], 
+        [Contract DT SCD2].[Expiration Month].&[01], 
+        [Contract DT SCD2].[Expiration Year].&[2025] 
+    )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+7)
+WITH 
+  MEMBER [Measures].[Average Delays per Contract] AS 
+    IIF(
+      [Measures].[Number of contracts] = 0, 
+      NULL, 
+      ([Measures].[Number of transport facts]) / ([Measures].[Number of contracts])
+    ), 
+    FORMAT_STRING = "Standard"
+SELECT 
+  NON EMPTY { 
+    [Measures].[Average Delays per Contract] 
+  } ON COLUMNS 
+FROM 
+  ( 
+    SELECT 
+      ( 
+        { [Junk DT].[Is Delay].&[True] } 
+      ) ON COLUMNS 
+    FROM 
+      ( 
+        SELECT 
+          ( 
+            { [ID Start Date].[Year].&[2023] } 
+          ) ON COLUMNS 
+        FROM 
+          [Kolejnictwo Hurtownia] 
+      ) 
+  ) 
+WHERE 
+  ( 
+    [ID Start Date].[Year].&[2023], 
+    [Junk DT].[Is Delay].&[True] 
+  ) 
+CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+8)
+SELECT 
+    NON EMPTY { [Measures].[Number of transport facts] } ON COLUMNS,
+    TOPCOUNT( 
+        { [Contract DT SCD2].[Company].[Company].MEMBERS }, 
+        1, 
+        [Measures].[Number of transport facts] 
+    ) ON ROWS
+FROM 
+    ( SELECT 
+        { [ID Start Date].[Year].&[2023] } ON COLUMNS 
+      FROM [Kolejnictwo Hurtownia] 
+    )
+WHERE 
+    ( [ID Start Date].[Year].&[2023] )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+9)
+SELECT 
+    NON EMPTY { [Measures].[Sum of weights of transported goods] } ON COLUMNS
+FROM 
+    ( SELECT 
+        { [ID Start Date].[Year].&[2023] } ON COLUMNS 
+      FROM ( SELECT 
+          { [Contract DT SCD2].[Contract Length].&[Extra long] } ON COLUMNS 
+          FROM [Kolejnictwo Hurtownia]
+      )
+    )
+WHERE 
+    ( [ID Start Date].[Year].&[2023], 
+      [Contract DT SCD2].[Contract Length].&[Extra long] 
+    )
+CELL PROPERTIES 
+    VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+
+10)
+SELECT 
+    NON EMPTY { [Measures].[Number of contracts] } ON COLUMNS, 
+    NON EMPTY { 
+        [Contract DT SCD2].[Sign Year].[Sign Year].&[2019], 
+        [Contract DT SCD2].[Sign Year].[Sign Year].&[2020], 
+        [Contract DT SCD2].[Sign Year].[Sign Year].&[2021], 
+        [Contract DT SCD2].[Sign Year].[Sign Year].&[2022], 
+        [Contract DT SCD2].[Sign Year].[Sign Year].&[2023] 
+    } ON ROWS 
+FROM 
+    [Kolejnictwo Hurtownia] 
+CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS
+

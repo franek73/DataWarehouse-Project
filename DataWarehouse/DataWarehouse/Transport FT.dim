@@ -1,0 +1,224 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="9f876f6d-eca8-43c8-b410-c2667c4bd9b1" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Transport FT</ID>
+  <Name>Transport FT</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="428a3276-4fde-4723-a7ca-08b7e72c9d3f">
+    <DataSourceViewID>Kolejnictwo Hurtownia</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="9d192c69-2bbc-4b38-ba8b-d92e03799888">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="5880b93e-84c6-48e2-b310-a88b6e90c748">
+      <ID>ID Transport</ID>
+      <Name>ID Transport</Name>
+      <Usage>Key</Usage>
+      <EstimatedCount>983733</EstimatedCount>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e6329fae-51ca-4e45-b570-9fe17ac5c149">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e4c82d69-7fc0-4879-87db-fa3e2cd7c201">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_Transport</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="dfda6ca7-bf77-4210-bbab-675f7eec2c34">
+          <AttributeID>ID End Date</AttributeID>
+          <Name>ID End Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="64a01910-d3f5-4c06-9439-4a976a2bb0dc">
+          <AttributeID>ID Start Station</AttributeID>
+          <Name>ID Start Station</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="49f2a2b8-7f00-46c4-924c-5390e21db624">
+          <AttributeID>ID Contract</AttributeID>
+          <Name>ID Contract</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="7fbe2b0f-0220-48b9-8920-5f3540d50d9a">
+          <AttributeID>ID Junk</AttributeID>
+          <Name>ID Junk</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="cd73fd30-5f64-404a-af07-00b8fe0e402f">
+          <AttributeID>ID Start Date</AttributeID>
+          <Name>ID Start Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="252695cf-2a7e-4b20-9b7c-a7c20379796b">
+          <AttributeID>ID End Station</AttributeID>
+          <Name>ID End Station</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="c0538ced-d37c-439e-a39d-06fae599b3cd">
+          <AttributeID>ID Locomotive</AttributeID>
+          <Name>ID Locomotive</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5bb3c745-7afb-450d-a722-44f37d2529b7">
+      <ID>ID End Date</ID>
+      <Name>ID End Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="44958c17-f05a-4bcf-9924-f4814009df15">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="94d14a6b-ab2a-46ca-8253-6060ee3bc7ba">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_EndDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="205dfae4-738d-4728-b2c5-33bac95902b1">
+      <ID>ID Start Station</ID>
+      <Name>ID Start Station</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e0a54360-f57b-455a-942c-45ed1806b4df">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2635b434-3ab7-43a7-b28a-556fd49ec698">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_StartStation</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ffd53a12-24b3-4e8e-a4fb-20106e4781fa">
+      <ID>ID Contract</ID>
+      <Name>ID Contract</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="93ff07ae-d077-4522-bd04-80583356386f">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4562a24a-447f-47ab-b783-732d2ede9d8e">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_Contract</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="a4224098-3521-44c2-a174-959a4a5b5882">
+      <ID>ID Junk</ID>
+      <Name>ID Junk</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f51db81a-c280-44b1-aa96-69ccdbde1690">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="adfc5ae4-d839-48c5-89f3-313bc10388e4">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_Junk</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="054c3c89-3690-4d7d-b4ca-8f238e349a62">
+      <ID>ID Start Date</ID>
+      <Name>ID Start Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ffd9600b-5c24-4bf8-aa8b-290c36c3e761">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8153becf-812b-4273-9aba-1ecbe9d84476">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_StartDate</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="053cc2a3-9eea-4da8-988a-79c7bc550264">
+      <ID>ID End Station</ID>
+      <Name>ID End Station</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b18e4220-4b55-44ff-a100-4a6b62c985e9">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="49ae381e-6812-4879-b91d-0e55f7467fff">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_EndStation</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="8de894ea-7f13-4ac5-a16d-ba8cedcf0794">
+      <ID>ID Locomotive</ID>
+      <Name>ID Locomotive</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a95435d3-38bf-46cd-895c-5d23ca715bcc">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d352c384-b1b1-419d-8a95-d49f50c349d2">
+            <TableID>dbo_Transport_FT</TableID>
+            <ColumnID>ID_Locomotive</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

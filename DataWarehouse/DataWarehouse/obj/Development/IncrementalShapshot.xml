@@ -1,0 +1,103 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>DataWarehouse</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>xF1g4OoS0yr782RL3f+Xj7+vyd4=06.12.2024 19:09:5521.11.2024 18:38:13</TimeStamp>
+        <ID>
+          <String>Kolejnictwo Hurtownia</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>2as/8YNNZykF2fqBHylKWegTFMM=07.12.2024 16:34:0421.11.2024 18:38:27</TimeStamp>
+        <ID>
+          <String>Kolejnictwo Hurtownia</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3K6xcSlpg80L55t4Wo1Jed0B9bg=21.11.2024 18:50:1321.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Freight Car DT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1kUJsueqomQDPmRTcnVH2FkoUg8=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Transport FT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5S928bwxy1WnnwclWtZyZjqYbmw=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Date DT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rbX51UMhAvRUr4QCmgUR5vJvPGc=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Station DT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>QCVTUUy7g/FNgOPPvVE336UchrQ=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Contract DT SCD2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>RYL67f1mSzn4XTE+fB7qlNuIgeQ=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Junk DT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>q/2q1s9DgbDAf6xHw0Z5zxfCLwI=22.12.2024 18:15:0521.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Locomotive DT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>dezyqC48SQmgKBhE6DJx7W9uJ58=20.01.2025 12:25:4921.11.2024 18:40:56JaVl6p7RPth7qoTFwnaDyqrUSF8=18.01.2025 18:02:4721.11.2024 18:40:56</TimeStamp>
+        <ID>
+          <String>Kolejnictwo Hurtownia</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>YpqkDuRLQf8NjgzPOgNFadoSnv8=21.11.2024 18:29:3521.11.2024 18:29:34</TimeStamp>
+      <ID>
+        <String>DataWarehouse</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-01-20T11:25:55.973333Z</LastDeployed>
+</DeploymentSnapshot>
